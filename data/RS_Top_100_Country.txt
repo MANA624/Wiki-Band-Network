@@ -1,0 +1,100 @@
+1	Merle Haggard
+2	Hank Williams
+3	Johnny Cash
+4	Loretta Lynn
+5	The Carter Family
+6	Willie Nelson
+7	Waylon Jennings
+8	Dolly Parton
+9	George Jones
+10	Garth Brooks
+11	Jimmie Rodgers (country singer)
+12	Patsy Cline
+13	Buck Owens
+14	Bob Wills
+15	Ray Price (musician)
+16	Tammy Wynette
+17	Glen Campbell
+18	Eddy Arnold
+19	Roger Miller
+20	George Strait
+21	Conway Twitty
+22	Lefty Frizzell
+23	Ernest Tubb
+24	The Louvin Brothers
+25	Shania Twain
+26	Tom T. Hall
+27	Bill Monroe
+28	Alan Jackson
+29	Kris Kristofferson
+30	Flatt & Scruggs
+31	Charley Pride
+32	Randy Travis
+33	Miranda Lambert
+34	Jerry Lee Lewis
+35	The Stanley Brothers
+36	Reba McEntire
+37	Jerry Reed
+38	John Prine
+39	Gram Parsons
+40	Hank Snow
+41	Charlie Rich
+42	Kitty Wells
+43	Bobby Bare
+44	Porter Wagoner
+45	Dixie Chicks
+46	Gary Stewart (singer)
+47	Mel Tillis
+48	Tennessee Ernie Ford
+49	Kenny Rogers
+50	Hank Williams Jr.
+51	Keith Whitley
+52	Don Williams
+53	Ronnie Milsap
+54	Jim Reeves
+55	Don Gibson
+56	John Anderson (musician)
+57	Johnny Horton
+58	Emmylou Harris
+59	Hank Thompson (musician)
+60	Doug Sahm
+61	Webb Pierce
+62	Vince Gill
+63	Faron Young
+64	Marty Robbins
+65	Billy Joe Shaver
+66	Roy Acuff
+67	Tanya Tucker
+68	Guy Clark
+69	Connie Smith
+70	Vern Gosdin
+71	Dwight Yoakam
+72	Jessi Colter
+73	Merle Travis
+74	Lee Ann Womack
+75	Asleep at the Wheel
+76	Marty Stuart
+77	Patty Loveless
+78	Rosanne Cash
+79	Alabama (American band)
+80	Taylor Swift
+81	The Statler Brothers
+82	Lynn Anderson
+83	Townes Van Zandt
+84	Steve Earle
+85	Eric Church
+86	Bill Anderson (singer)
+87	Jamey Johnson
+88	The Judds
+89	Tim McGraw
+90	Crystal Gayle
+91	Lucinda Williams
+92	Chris LeDoux
+93	Jerry Jeff Walker
+94	Alison Krauss
+95	Brooks & Dunn
+96	Toby Keith
+97	Brad Paisley
+98	Keith Urban
+99	Carrie Underwood
+100	John Denver

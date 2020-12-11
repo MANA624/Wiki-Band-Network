@@ -1,0 +1,2963 @@
+# All the main nodes for metal
+#Node ID	Band Title	Link
+2733	220 Volt (band)	/wiki/220_Volt_(band)
+2734	44 Magnum (band)	/wiki/44_Magnum_(band)
+2735	A II Z	/wiki/A_II_Z
+13	Accept (band)	/wiki/Accept_(band)
+12	AC/DC	/wiki/AC/DC
+17	Aerosmith	/wiki/Aerosmith
+25	Alice Cooper	/wiki/Alice_Cooper
+2736	Angel (American band)	/wiki/Angel_(American_band)
+2737	Ángeles del Infierno	/wiki/%C3%81ngeles_del_Infierno
+39	Angel Witch	/wiki/Angel_Witch
+2738	Anthem (band)	/wiki/Anthem_(band)
+42	Anthrax (American band)	/wiki/Anthrax_(American_band)
+2739	Anvil (band)	/wiki/Anvil_(band)
+2740	Armageddon (A&M band)	/wiki/Armageddon_(A%26M_band)
+2742	Atomic Rooster	/wiki/Atomic_Rooster
+2743	Atomkraft	/wiki/Atomkraft
+2744	Attila (rock band)	/wiki/Attila_(rock_band)
+2745	Axe (band)	/wiki/Axe_(band)
+2746	Babe Ruth (band)	/wiki/Babe_Ruth_(band)
+2747	Bang (American band)	/wiki/Bang_(American_band)
+2748	Barnabas (band)	/wiki/Barnabas_(band)
+2749	Barón Rojo	/wiki/Bar%C3%B3n_Rojo
+2750	Battleaxe (band)	/wiki/Battleaxe_(band)
+2752	Beowülf	/wiki/Beow%C3%BClf
+2753	Birth Control (band)	/wiki/Birth_Control_(band)
+2754	Bitch (band)	/wiki/Bitch_(band)
+2755	Black Death (American band)	/wiki/Black_Death_(American_band)
+2756	Black 'n Blue	/wiki/Black_%27n_Blue
+2757	Black Rose (UK Band)	/wiki/Black_Rose_(UK_Band)
+98	Black Sabbath	/wiki/Black_Sabbath
+2758	Black Widow (band)	/wiki/Black_Widow_(band)
+2759	Bleak House (band)	/wiki/Bleak_House_(band)
+2760	Blind Illusion	/wiki/Blind_Illusion
+2761	Blitzkrieg (band)	/wiki/Blitzkrieg_(band)
+2762	Bloodrock	/wiki/Bloodrock
+2763	Blue Cheer	/wiki/Blue_Cheer
+106	Blue Öyster Cult	/wiki/Blue_%C3%96yster_Cult
+2764	Bodine (band)	/wiki/Bodine_(band)
+2765	Boss (Australian band)	/wiki/Boss_(Australian_band)
+2766	Bow Wow (band)	/wiki/Bow_Wow_(band)
+2767	Bronz	/wiki/Bronz
+2768	Edgar Broughton Band	/wiki/Edgar_Broughton_Band
+2769	Budgie (band)	/wiki/Budgie_(band)
+2770	Buffalo (band)	/wiki/Buffalo_(band)
+2771	Bulldozer (band)	/wiki/Bulldozer_(band)
+2772	Cactus (American band)	/wiki/Cactus_(American_band)
+2773	Captain Beyond	/wiki/Captain_Beyond
+2774	Chateaux (band)	/wiki/Chateaux_(band)
+2775	Cirith Ungol (band)	/wiki/Cirith_Ungol_(band)
+2776	Cloven Hoof (band)	/wiki/Cloven_Hoof_(band)
+2777	Coven (band)	/wiki/Coven_(band)
+2778	Crimson Glory	/wiki/Crimson_Glory
+2779	Crushed Butler	/wiki/Crushed_Butler
+2780	Death SS	/wiki/Death_SS
+2781	Dedringer	/wiki/Dedringer
+2782	Deep Machine	/wiki/Deep_Machine
+209	Deep Purple	/wiki/Deep_Purple
+208	Def Leppard	/wiki/Def_Leppard
+2783	Demon (band)	/wiki/Demon_(band)
+2784	The Deviants (band)	/wiki/The_Deviants_(band)
+2785	Diamond Head (English band)	/wiki/Diamond_Head_(English_band)
+2786	Die Krupps	/wiki/Die_Krupps
+2787	Divlje Jagode	/wiki/Divlje_Jagode
+2788	Dokken	/wiki/Dokken
+2789	Doro (musician)	/wiki/Doro_(musician)
+2790	Dust (band)	/wiki/Dust_(band)
+2791	Earthshaker (band)	/wiki/Earthshaker_(band)
+2792	Easy Action (band)	/wiki/Easy_Action_(band)
+2793	E.F. Band	/wiki/E.F._Band
+2794	Electric Sun	/wiki/Electric_Sun
+244	Elf (band)	/wiki/Elf_(band)
+2795	Ethel the Frog (band)	/wiki/Ethel_the_Frog_(band)
+256	Europe (band)	/wiki/Europe_(band)
+2796	Exciter (band)	/wiki/Exciter_(band)
+2797	Fallout (heavy metal band)	/wiki/Fallout_(heavy_metal_band)
+2798	Fist (UK band)	/wiki/Fist_(UK_band)
+2799	Flotsam and Jetsam (band)	/wiki/Flotsam_and_Jetsam_(band)
+2800	Flower Travellin' Band	/wiki/Flower_Travellin%27_Band
+2801	The Flying Hat Band	/wiki/The_Flying_Hat_Band
+469	Lita Ford	/wiki/Lita_Ford
+2802	Gamma (band)	/wiki/Gamma_(band)
+2803	Geordie (band)	/wiki/Geordie_(band)
+2804	Gillan (band)	/wiki/Gillan_(band)
+2805	Girl (band)	/wiki/Girl_(band)
+2806	Girlschool	/wiki/Girlschool
+2807	Gordi (band)	/wiki/Gordi_(band)
+329	Grand Funk Railroad	/wiki/Grand_Funk_Railroad
+2808	Grave Digger (band)	/wiki/Grave_Digger_(band)
+2809	Gravestone (band)	/wiki/Gravestone_(band)
+332	Great White	/wiki/Great_White
+2810	Grim Reaper (band)	/wiki/Grim_Reaper_(band)
+2811	The Gun (band)	/wiki/The_Gun_(band)
+670	Sammy Hagar	/wiki/Sammy_Hagar
+2812	The Handsome Beasts	/wiki/The_Handsome_Beasts
+2813	Hanoi Rocks	/wiki/Hanoi_Rocks
+2814	Hard Stuff	/wiki/Hard_Stuff
+347	Hawkwind	/wiki/Hawkwind
+2815	Headpins	/wiki/Headpins
+2816	Heaven (Australian band)	/wiki/Heaven_(Australian_band)
+2817	Heavy Load (band)	/wiki/Heavy_Load_(band)
+2818	Heavy Metal Kids	/wiki/Heavy_Metal_Kids
+2819	Helix (band)	/wiki/Helix_(band)
+403	The Jimi Hendrix Experience	/wiki/The_Jimi_Hendrix_Experience
+2820	High Tide (band)	/wiki/High_Tide_(band)
+2821	Hollow Ground (band)	/wiki/Hollow_Ground_(band)
+2822	Holocaust (band)	/wiki/Holocaust_(band)
+2823	Holy Moses	/wiki/Holy_Moses
+2824	Icon (band)	/wiki/Icon_(band)
+370	Iron Butterfly	/wiki/Iron_Butterfly
+2825	Iron Claw (band)	/wiki/Iron_Claw_(band)
+371	Iron Maiden	/wiki/Iron_Maiden
+2826	Jag Panzer	/wiki/Jag_Panzer
+2827	Jaguar (band)	/wiki/Jaguar_(band)
+2828	Jameson Raid (band)	/wiki/Jameson_Raid_(band)
+2829	Jerusalem (British band)	/wiki/Jerusalem_(British_band)
+2830	Josefus	/wiki/Josefus
+2831	JPT Scare Band	/wiki/JPT_Scare_Band
+431	Judas Priest	/wiki/Judas_Priest
+2832	Kat (band)	/wiki/Kat_(band)
+2833	Kerber	/wiki/Kerber
+2834	Kick Axe	/wiki/Kick_Axe
+2835	Killer (Belgian band)	/wiki/Killer_(Belgian_band)
+2836	Killer Dwarfs	/wiki/Killer_Dwarfs
+443	Killing Joke	/wiki/Killing_Joke
+2837	King's X	/wiki/King%27s_X
+448	Kiss (band)	/wiki/Kiss_(band)
+2838	Kix (band)	/wiki/Kix_(band)
+2839	Krokus (band)	/wiki/Krokus_(band)
+2840	Leaf Hound	/wiki/Leaf_Hound
+2841	Leatherwolf	/wiki/Leatherwolf
+458	Led Zeppelin	/wiki/Led_Zeppelin
+2842	Lee Aaron	/wiki/Lee_Aaron
+2843	Legs Diamond (band)	/wiki/Legs_Diamond_(band)
+2844	Leño	/wiki/Le%C3%B1o
+2845	Leviticus (band)	/wiki/Leviticus_(band)
+2846	Lionheart (UK band)	/wiki/Lionheart_(UK_band)
+2847	Living Death (band)	/wiki/Living_Death_(band)
+2848	London (heavy metal band)	/wiki/London_(heavy_metal_band)
+2849	Lone Star (band)	/wiki/Lone_Star_(band)
+2850	Los Suaves	/wiki/Los_Suaves
+2851	Loudness (band)	/wiki/Loudness_(band)
+487	Lynyrd Skynyrd	/wiki/Lynyrd_Skynyrd
+2852	Lucifer's Friend	/wiki/Lucifer%27s_Friend
+2853	Mahogany Rush	/wiki/Mahogany_Rush
+2854	Malice (US band)	/wiki/Malice_(US_band)
+2855	Yngwie Malmsteen	/wiki/Yngwie_Malmsteen
+2856	Mama's Boys	/wiki/Mama%27s_Boys
+2857	Manilla Road	/wiki/Manilla_Road
+492	Manowar	/wiki/Manowar
+2858	Marseille (band)	/wiki/Marseille_(band)
+2859	Max Webster	/wiki/Max_Webster
+2860	May Blitz	/wiki/May_Blitz
+511	MC5	/wiki/MC5
+2861	Mentors (band)	/wiki/Mentors_(band)
+2862	Mercyful Fate	/wiki/Mercyful_Fate
+2863	Metal Church	/wiki/Metal_Church
+509	Metallica	/wiki/Metallica
+2864	Ministry (band)	/wiki/Ministry_(band)
+519	Misfits (band)	/wiki/Misfits_(band)
+523	Montrose (band)	/wiki/Montrose_(band)
+2865	More (band)	/wiki/More_(band)
+527	Mötley Crüe	/wiki/M%C3%B6tley_Cr%C3%BCe
+528	Motörhead	/wiki/Mot%C3%B6rhead
+530	Mountain (band)	/wiki/Mountain_(band)
+2866	Moxy (band)	/wiki/Moxy_(band)
+538	Nazareth (band)	/wiki/Nazareth_(band)
+2867	Necromandus	/wiki/Necromandus
+2868	The Next Band	/wiki/The_Next_Band
+2869	Nightmare (French band)	/wiki/Nightmare_(French_band)
+2870	Night Sun	/wiki/Night_Sun
+2871	Nightwing (band)	/wiki/Nightwing_(band)
+763	Ted Nugent	/wiki/Ted_Nugent
+2872	The Obsessed	/wiki/The_Obsessed
+568	Ozzy Osbourne	/wiki/Ozzy_Osbourne
+2873	Ostrogoth (band)	/wiki/Ostrogoth_(band)
+2874	Oz (Finnish band)	/wiki/Oz_(Finnish_band)
+2875	Pagan Altar	/wiki/Pagan_Altar
+569	Pantera	/wiki/Pantera
+2876	Pentagram (band)	/wiki/Pentagram_(band)
+2877	Persian Risk	/wiki/Persian_Risk
+2878	Picture (band)	/wiki/Picture_(band)
+2879	Pink Fairies	/wiki/Pink_Fairies
+2880	Praying Mantis (band)	/wiki/Praying_Mantis_(band)
+2881	Pretty Maids	/wiki/Pretty_Maids
+2882	Primevil (band)	/wiki/Primevil_(band)
+2883	Quartz (metal band)	/wiki/Quartz_(metal_band)
+616	Queensrÿche	/wiki/Queensr%C3%BFche
+618	Quiet Riot	/wiki/Quiet_Riot
+2884	Rainbow (British band)	/wiki/Rainbow_(British_band)
+633	Ratt	/wiki/Ratt
+2885	Raven (band)	/wiki/Raven_(band)
+2886	Riot (band)	/wiki/Riot_(band)
+2887	Rock Goddess	/wiki/Rock_Goddess
+2888	Rok Mašina	/wiki/Rok_Ma%C5%A1ina
+2889	Rose Tattoo	/wiki/Rose_Tattoo
+2890	Uli Jon Roth	/wiki/Uli_Jon_Roth
+2891	Rough Cutt	/wiki/Rough_Cutt
+2892	The Runaways	/wiki/The_Runaways
+2893	Running Wild (band)	/wiki/Running_Wild_(band)
+668	Rush (band)	/wiki/Rush_(band)
+2894	Saber Tiger	/wiki/Saber_Tiger
+2895	Sacred Rite (band)	/wiki/Sacred_Rite_(band)
+2896	Saint (band)	/wiki/Saint_(band)
+2897	Saint Vitus (band)	/wiki/Saint_Vitus_(band)
+2898	Salem (UK band)	/wiki/Salem_(UK_band)
+2899	Samson (band)	/wiki/Samson_(band)
+2900	Satan (band)	/wiki/Satan_(band)
+2901	Savage (band)	/wiki/Savage_(band)
+2902	Savage Grace (metal band)	/wiki/Savage_Grace_(metal_band)
+2903	Savatage	/wiki/Savatage
+2904	Saxon (band)	/wiki/Saxon_(band)
+2905	Michael Schenker	/wiki/Michael_Schenker
+678	Scorpions (band)	/wiki/Scorpions_(band)
+2906	Shark Island (band)	/wiki/Shark_Island_(band)
+2907	Sir Lord Baltimore	/wiki/Sir_Lord_Baltimore
+2908	Sister (band)	/wiki/Sister_(band)
+2909	Skitzo (band)	/wiki/Skitzo_(band)
+2910	Sorcery (band)	/wiki/Sorcery_(band)
+2911	Sortilège (band)	/wiki/Sortil%C3%A8ge_(band)
+2912	Sound Barrier	/wiki/Sound_Barrier
+2913	Spinal Tap (band)	/wiki/Spinal_Tap_(band)
+2914	Spider (British band)	/wiki/Spider_(British_band)
+2915	Stampede (band)	/wiki/Stampede_(band)
+2916	Starz (band)	/wiki/Starz_(band)
+2917	Steeler (German band)	/wiki/Steeler_(German_band)
+727	Steppenwolf (band)	/wiki/Steppenwolf_(band)
+736	The Stooges	/wiki/The_Stooges
+2918	Stormwitch	/wiki/Stormwitch
+2919	Stray (band)	/wiki/Stray_(band)
+2920	Suck (band)	/wiki/Suck_(band)
+2921	Suicidal Tendencies	/wiki/Suicidal_Tendencies
+2922	Sweet Savage	/wiki/Sweet_Savage
+2923	Tank (band)	/wiki/Tank_(band)
+2924	Tarantula (band)	/wiki/Tarantula_(band)
+774	Tesla (band)	/wiki/Tesla_(band)
+782	Thin Lizzy	/wiki/Thin_Lizzy
+2925	Thor (band)	/wiki/Thor_(band)
+2926	TKO (band)	/wiki/TKO_(band)
+2927	Toad (band)	/wiki/Toad_(band)
+2928	Tobruk (band)	/wiki/Tobruk_(band)
+2929	Trance (band)	/wiki/Trance_(band)
+2930	Trespass (band)	/wiki/Trespass_(band)
+2931	Triumph (band)	/wiki/Triumph_(band)
+2932	Trooper (band)	/wiki/Trooper_(band)
+2933	Trouble (band)	/wiki/Trouble_(band)
+2934	Trust (French band)	/wiki/Trust_(French_band)
+2935	TSA (band)	/wiki/TSA_(band)
+2936	Tucky Buzzard	/wiki/Tucky_Buzzard
+2937	Turbo (Polish band)	/wiki/Turbo_(Polish_band)
+812	Twisted Sister	/wiki/Twisted_Sister
+2938	Tygers of Pan Tang	/wiki/Tygers_of_Pan_Tang
+2939	Tytan (band)	/wiki/Tytan_(band)
+815	UFO (band)	/wiki/UFO_(band)
+2940	Urchin (band)	/wiki/Urchin_(band)
+817	Uriah Heep (band)	/wiki/Uriah_Heep_(band)
+2941	V8 (band)	/wiki/V8_(band)
+2942	Vandenberg (band)	/wiki/Vandenberg_(band)
+819	Van Halen	/wiki/Van_Halen
+2943	Vanilla Fudge	/wiki/Vanilla_Fudge
+2944	Vardis	/wiki/Vardis
+2945	Venom (band)	/wiki/Venom_(band)
+2946	Vicious Rumors	/wiki/Vicious_Rumors
+2947	Virgin Steele	/wiki/Virgin_Steele
+2948	Vixen (band)	/wiki/Vixen_(band)
+2949	Vulcain (band)	/wiki/Vulcain_(band)
+2950	Warning (French band)	/wiki/Warning_(French_band)
+2951	Warpig (band)	/wiki/Warpig_(band)
+2952	White Sister (band)	/wiki/White_Sister_(band)
+840	Whitesnake	/wiki/Whitesnake
+2953	White Spirit (band)	/wiki/White_Spirit_(band)
+2954	White Wolf (band)	/wiki/White_Wolf_(band)
+2955	Wild Dogs	/wiki/Wild_Dogs
+2956	Wild Horses (British band)	/wiki/Wild_Horses_(British_band)
+2957	Witchfinder General (band)	/wiki/Witchfinder_General_(band)
+2958	Witchfynde	/wiki/Witchfynde
+2959	Wrathchild	/wiki/Wrathchild
+2960	Wrathchild America	/wiki/Wrathchild_America
+2961	Y&T	/wiki/Y%26T
+858	Zebra (American band)	/wiki/Zebra_(American_band)
+2962	Zoetrope (band)	/wiki/Zoetrope_(band)
+2996	Electro-industrial	/wiki/Electro-industrial
+2998	Jim Davies (musician)	/wiki/Jim_Davies_(musician)
+2999	Pitchshifter	/wiki/Pitchshifter_(band)
+3000	Gizz Butt	/wiki/Gizz_Butt
+3002	Pendulum (Australian band)	/wiki/Pendulum_(drum_and_bass_group)
+3003	Rob Holliday	/wiki/Rob_Holliday
+3004	Dave Grohl	/wiki/Dave_Grohl
+3005	Pendulum (Australian band)	/wiki/Pendulum_(drum_and_bass_band)
+3008	Ben Weinman	/wiki/Ben_Weinman
+3010	Lostprophets	/wiki/Lostprophets
+3011	Bullet for My Valentine	/wiki/Bullet_for_My_Valentine
+3013	Black Veil Brides	/wiki/Black_Veil_Brides
+3015	Viper (band)	/wiki/Viper_(band)
+3016	Shaman (band)	/wiki/Shaman_(band)
+3017	Andre Matos	/wiki/Andre_Matos
+3018	Almah (band)	/wiki/Almah_(band)
+3019	Felipe Andreoli	/wiki/Felipe_Andreoli
+3020	Fabio Lione	/wiki/Fabio_Lione
+3021	Kiko Loureiro	/wiki/Kiko_Loureiro
+3022	Aquiles Priester	/wiki/Aquiles_Priester
+3023	Ricardo Confessori	/wiki/Ricardo_Confessori
+3024	Rhapsody of Fire	/wiki/Alex_Holzwarth
+3025	Gamma Ray (band)	/wiki/Gamma_Ray_(band)
+3026	Kai Hansen	/wiki/Kai_Hansen
+3027	Heavens Gate (band)	/wiki/Heavens_Gate_(band)
+3028	Sascha Paeth	/wiki/Sascha_Paeth
+3029	Dirk Schlächter	/wiki/Dirk_Schl%C3%A4chter
+3030	Angra (band)	/wiki/Freedom_Call_(EP)
+3031	Angra (band)	/wiki/Holy_Live
+3032	Stratovarius	/wiki/Stratovarius
+3033	Hansi Kürsch	/wiki/Hansi_K%C3%BCrsch
+3035	DragonForce	/wiki/DragonForce
+3036	Nightwish	/wiki/Nightwish
+3037	Labyrinth (band)	/wiki/Labyrinth_(band)
+3038	Doro (musician)	/wiki/Doro_Pesch
+3039	Dee Snider	/wiki/Dee_Snider
+3064	David Ellefson	/wiki/David_Ellefson
+3065	Dirk Verbeuren	/wiki/Dirk_Verbeuren
+3066	Dave Mustaine	/wiki/Dave_Mustaine
+3067	MD.45	/wiki/MD.45
+3068	F5 (band)	/wiki/F5_(band)
+3069	Slayer	/wiki/Slayer
+3070	White Lion	/wiki/White_Lion
+3071	Metal Allegiance	/wiki/Metal_Allegiance
+3072	James Hetfield	/wiki/James_Hetfield
+3073	Kerry King	/wiki/Kerry_King
+3074	Gar Samuelson	/wiki/Gar_Samuelson
+3075	Chris Poland	/wiki/Chris_Poland
+3076	Mike Albert	/wiki/Mike_Albert
+3077	Overkill (band)	/wiki/Overkill_(band)
+3078	Malice (American band)	/wiki/Malice_(American_band)
+3079	Jeff Young	/wiki/Jeff_Young
+3080	Warlock (band)	/wiki/Warlock_(band)
+3081	Sanctuary (band)	/wiki/Sanctuary_(band)
+3082	Nuclear Assault	/wiki/Nuclear_Assault
+3083	Nick Menza	/wiki/Nick_Menza
+3084	Lee Altus	/wiki/Lee_Altus
+3085	Heathen (band)	/wiki/Heathen_(band)
+3086	Eric Meyer (musician)	/wiki/Eric_Meyer_(musician)
+3087	Dark Angel (band)	/wiki/Dark_Angel_(band)
+3088	Dimebag Darrell	/wiki/Dimebag_Darrell
+3089	Vinnie Paul	/wiki/Vinnie_Paul
+3090	Criss Oliva	/wiki/Criss_Oliva
+3091	Jeff Loomis	/wiki/Jeff_Loomis
+3092	Nevermore	/wiki/Nevermore
+3093	Marty Friedman	/wiki/Marty_Friedman
+3094	Cacophony (band)	/wiki/Cacophony_(band)
+3095	Corrosion of Conformity	/wiki/Corrosion_of_Conformity
+3096	Fear Factory	/wiki/Fear_Factory
+3099	Life of Agony	/wiki/Life_of_Agony
+3100	Coal Chamber	/wiki/Coal_Chamber
+3101	Al Pitrelli	/wiki/Al_Pitrelli
+3102	Trans-Siberian Orchestra	/wiki/Trans-Siberian_Orchestra
+3103	Endo (band)	/wiki/Endo_(band)
+3104	Vinnie Colaiuta	/wiki/Vinnie_Colaiuta
+3106	Shawn Drover	/wiki/Shawn_Drover
+3107	James MacDonough	/wiki/James_MacDonough
+3108	Glen Drover	/wiki/Glen_Drover
+3109	OHM (band)	/wiki/OHM_(band)
+3110	Eidolon (band)	/wiki/Eidolon_(band)
+3111	King Diamond	/wiki/King_Diamond
+3112	Exodus (American band)	/wiki/Exodus_(American_band)
+3113	Dungeon (band)	/wiki/Dungeon_(band)
+3114	James LoMenzo	/wiki/James_LoMenzo
+3115	David Lee Roth	/wiki/David_Lee_Roth
+3116	Arch Enemy	/wiki/Arch_Enemy_(band)
+3117	Soulfly	/wiki/Soulfly
+3118	Arch Enemy	/wiki/Arch_Enemy
+3119	Caliban (band)	/wiki/Caliban_(band)
+3120	Chris Broderick	/wiki/Chris_Broderick
+3121	Cristina Scabbia	/wiki/Cristina_Scabbia
+3122	Lacuna Coil	/wiki/Lacuna_Coil
+3123	Down (band)	/wiki/Down_(band)
+3124	Machine Head (band)	/wiki/Machine_Head_(band)
+3125	Static-X	/wiki/Static-X
+3126	DevilDriver	/wiki/DevilDriver
+3127	Van Williams (musician)	/wiki/Van_Williams_(musician)
+3128	In Flames	/wiki/In_Flames
+3129	Children of Bodom	/wiki/Children_of_Bodom
+3130	Job for a Cowboy	/wiki/Job_for_a_Cowboy
+3131	High on Fire	/wiki/High_on_Fire
+3132	Warbringer	/wiki/Warbringer
+3133	Tom Araya	/wiki/Tom_Araya
+3134	Jeff Hanneman	/wiki/Jeff_Hanneman
+3135	Hellyeah	/wiki/Hellyeah
+3136	Device (metal band)	/wiki/Device_(metal_band)
+3137	Newsted	/wiki/Newsted
+3138	Jason Newsted	/wiki/Jason_Newsted
+3139	Chris Adler	/wiki/Chris_Adler
+3140	Havok (band)	/wiki/Havok_(band)
+3141	Soilwork	/wiki/Soilwork
+3142	Butcher Babies	/wiki/Butcher_Babies
+3143	Armored Saint	/wiki/Armored_Saint
+3144	John 5 (guitarist)	/wiki/John_5_(guitarist)
+3145	Death Angel	/wiki/Death_Angel
+3146	Toothgrinder	/wiki/Toothgrinder
+3147	Five Finger Death Punch	/wiki/Five_Finger_Death_Punch
+3148	Rotting Christ	/wiki/Rotting_Christ
+3149	Dissection (band)	/wiki/Dissection_(band)
+3150	Toxic Holocaust	/wiki/Toxic_Holocaust
+3187	Deftones	/wiki/Deftones
+3193	Trent Reznor	/wiki/Trent_Reznor
+3195	The Darkness (band)	/wiki/The_Darkness_(band)
+3198	Rick Allen (drummer)	/wiki/Rick_Allen_(drummer)
+3199	Vivian Campbell	/wiki/Vivian_Campbell
+3200	Phil Collen	/wiki/Phil_Collen
+3201	Steve Clark	/wiki/Steve_Clark
+3202	Joe Elliott	/wiki/Joe_Elliott
+3203	Rick Savage	/wiki/Rick_Savage
+3204	Pete Willis	/wiki/Pete_Willis
+3223	Funny Money (band)	/wiki/Funny_Money_(band)
+3224	Rhino Bucket	/wiki/Rhino_Bucket
+3225	Souls at Zero (band)	/wiki/Souls_at_Zero_(band)
+3227	Steve Whiteman	/wiki/Steve_Whiteman
+3228	Brad Divens	/wiki/Brad_Divens
+3231	Warrant (American band)	/wiki/Warrant_(American_band)
+3232	Taylor Rhodes	/wiki/Taylor_Rhodes
+3233	Kix (band)	/wiki/Brian_%22Damage%22_Forsythe
+3236	Mother's Finest	/wiki/Mother%27s_Finest
+3237	Fishbone	/wiki/Fishbone
+3238	Joshua (band)	/wiki/Joshua_(band)
+3239	Joe Holmes	/wiki/Joe_Holmes
+3240	Rob Rock	/wiki/Rob_Rock
+3241	Andy Susemihl	/wiki/Andy_Susemihl
+3242	Sinner (band)	/wiki/Sinner_(band)
+3243	U.D.O.	/wiki/U.D.O.
+3245	Vic Johnson (musician)	/wiki/Vic_Johnson_(musician)
+3246	Roy Z	/wiki/Roy_Z
+3247	Tom Morello	/wiki/Tom_Morello
+3248	Doug Pinnick	/wiki/Doug_Pinnick
+3249	Corey Glover	/wiki/Corey_Glover
+3250	God Forbid	/wiki/God_Forbid
+3260	Ryan Peake	/wiki/Ryan_Peake
+3261	Josey Scott	/wiki/Josey_Scott
+3262	Theory of a Deadman	/wiki/Tyler_Connolly
+3263	Matt Cameron	/wiki/Matt_Cameron
+3265	Seether	/wiki/Seether
+3267	Black Stone Cherry	/wiki/Black_Stone_Cherry
+3268	Hinder	/wiki/Hinder
+3269	Papa Roach	/wiki/Papa_Roach
+3270	Sick Puppies	/wiki/Sick_Puppies
+3274	Pop Evil	/wiki/Pop_Evil
+3276	Shaman's Harvest	/wiki/Shaman%27s_Harvest
+3291	John Du Cann	/wiki/John_Du_Cann
+3297	Ric Parnell	/wiki/Ric_Parnell
+3300	Bernie Tormé	/wiki/Bernie_Torme
+3306	John McCoy (musician)	/wiki/John_McCoy_(musician)
+3310	Bernie Tormé	/wiki/Bernie_Torm%C3%A9
+3325	David Glen Eisley	/wiki/David_Glen_Eisley
+3334	Razorback (band)	/wiki/Razorback_(band)
+3342	Blue Murder (band)	/wiki/Blue_Murder_(band)
+3343	Shadowkeep	/wiki/Shadowkeep
+3344	John Sykes	/wiki/John_Sykes
+3345	John Sloman	/wiki/Badlands_(UK_band)
+3347	Oliver/Dawson Saxon	/wiki/Oliver/Dawson_Saxon
+3385	Don Felder	/wiki/Don_Felder
+3405	Tré Cool	/wiki/Tr%C3%A9_Cool
+3475	Brad Arnold	/wiki/Brad_Arnold
+3476	Josh Freese	/wiki/Josh_Freese
+3477	Alex Lifeson	/wiki/Alex_Lifeson
+3481	Paul Stanley	/wiki/Paul_Stanley
+3501	Bernie Marsden	/wiki/Bernie_Marsden
+3515	Extrema (band)	/wiki/Extrema_(band)
+3518	Adrenaline Mob	/wiki/Adrenaline_Mob
+3522	Dweezil Zappa	/wiki/Dweezil_Zappa
+3523	Paul Gilbert	/wiki/Paul_Gilbert
+3524	Nuno Bettencourt	/wiki/Nuno_Bettencourt
+3525	Pat Badger	/wiki/Pat_Badger
+3527	Mike Mangini	/wiki/Mike_Mangini
+3530	Hot Leg	/wiki/Hot_Leg
+3531	Richie Kotzen	/wiki/Richie_Kotzen
+3532	Mr. Big (American band)	/wiki/Mr._Big_(American_band)
+3538	Rex Brown	/wiki/Rex_Brown
+3543	Axel Rudi Pell	/wiki/Axel_Rudi_Pell
+3544	Darxon	/wiki/Darxon
+3545	Axel Rudi Pell	/wiki/Rulin%27_the_Earth
+3546	Steeler (German band)	/wiki/Undercover_Animal
+3547	Bad English	/wiki/Bad_English
+3549	Hardline (band)	/wiki/Hardline_(band)
+3553	Neal Schon	/wiki/Neal_Schon
+3562	Robert Fleischman	/wiki/Robert_Fleischman
+3565	Deen Castronovo	/wiki/Deen_Castronovo
+3566	Jeff Scott Soto	/wiki/Jeff_Scott_Soto
+3570	Point Blank (band)	/wiki/Point_Blank_(band)
+3577	John West (musician)	/wiki/John_West_(musician)
+3578	Tyketto	/wiki/Tyketto
+3579	Tall Stories (band)	/wiki/Tall_Stories_(band)
+3588	Jeff Ament	/wiki/Jeff_Ament
+3589	Stone Gossard	/wiki/Stone_Gossard
+3591	Mike McCready	/wiki/Mike_McCready
+3629	B-Real	/wiki/B-Real
+3630	Helmet (band)	/wiki/Helmet_(band)
+3631	Ill Bill	/wiki/Ill_Bill
+3659	Kingdom Come (band)	/wiki/Kingdom_Come_(band)
+3660	Front Line Assembly	/wiki/Front_Line_Assembly
+3668	The Smalls	/wiki/The_Smalls
+3718	Skin Yard	/wiki/Skin_Yard
+3732	Butch Walker	/wiki/Butch_Walker
+3763	Marilyn Manson (band)	/wiki/Marilyn_Manson_(band)
+3765	Maynard James Keenan	/wiki/Maynard_James_Keenan
+3769	Behemoth (band)	/wiki/Behemoth_(band)
+3770	Napalm Death	/wiki/Napalm_Death
+3786	Jaz Coleman	/wiki/Jaz_Coleman
+3787	Killing Joke	/wiki/Killing_Joke_(band)
+3788	Al Jourgensen	/wiki/Al_Jourgensen
+3789	Randy Blythe	/wiki/Randy_Blythe
+3790	Jonathan Davis	/wiki/Jonathan_Davis
+3792	Sean Yseult	/wiki/Sean_Yseult
+3801	The God Machine (band)	/wiki/The_God_Machine_(band)
+3802	Nevermore	/wiki/Nevermore_(band)
+3804	The Electric Hellfire Club	/wiki/The_Electric_Hellfire_Club
+3805	Opera IX	/wiki/Opera_IX
+3808	Dead Cross	/wiki/Dead_Cross
+3810	Crystal Fairy (band)	/wiki/Crystal_Fairy_(band)
+3811	Fantômas (band)	/wiki/Fant%C3%B4mas_(band)
+3812	Men of Porn	/wiki/Men_of_Porn
+3814	Big Business (band)	/wiki/Big_Business_(band)
+3815	Fecal Matter (band)	/wiki/Fecal_Matter_(band)
+3817	Shrinebuilder	/wiki/Shrinebuilder
+3818	Buzz Osborne	/wiki/Buzz_Osborne
+3819	Dale Crover	/wiki/Dale_Crover
+3820	Steven Shane McDonald	/wiki/Steven_Shane_McDonald
+3821	Matt Lukin	/wiki/Matt_Lukin
+3822	Joe Preston (bassist)	/wiki/Joe_Preston_(bassist)
+3823	Kevin Rutmanis	/wiki/Kevin_Rutmanis
+3824	Trevor Dunn	/wiki/Trevor_Dunn
+3825	Jeff Pinkus	/wiki/Jeff_Pinkus
+3828	Gene Simmons	/wiki/Gene_Simmons
+3829	Mike Patton	/wiki/Mike_Patton
+3831	Adam Jones (musician)	/wiki/Adam_Jones_(musician)
+3832	Weedeater (band)	/wiki/Weedeater_(band)
+3834	Paul Leary	/wiki/Paul_Leary
+3835	godheadSilo	/wiki/GodheadSilo
+3836	Mike Kunka	/wiki/Mike_Kunka
+3839	Alice Cooper (band)	/wiki/Alice_Cooper_(band)
+3841	Green River (band)	/wiki/Green_River_(band)
+3842	Boris (band)	/wiki/Boris_(band)
+3843	Full of Hell (band)	/wiki/Full_of_Hell_(band)
+3844	Corey Taylor	/wiki/Corey_Taylor
+3845	Sleep (band)	/wiki/Sleep_(band)
+3846	Earth (American band)	/wiki/Earth_(American_band)
+3847	Sunn O)))	/wiki/Sunn_O)))
+3848	Neurosis (band)	/wiki/Neurosis_(band)
+3849	Baroness (band)	/wiki/Baroness_(band)
+3850	Eyehategod	/wiki/Eyehategod
+3851	Isis (band)	/wiki/Isis_(band)
+3862	Tim Bogert	/wiki/Tim_Bogert
+3874	Steve Jones (musician)	/wiki/Steve_Jones_(musician)
+3884	Billy Duffy	/wiki/Billy_Duffy
+3915	Dizzy Reed	/wiki/Dizzy_Reed
+3916	Axl Rose	/wiki/Axl_Rose
+3917	Matt Sorum	/wiki/Matt_Sorum
+3920	Flea (musician)	/wiki/Flea_(musician)
+3921	Jack Irons	/wiki/Jack_Irons
+3924	Hillel Slovak	/wiki/Hillel_Slovak
+3925	Chad Smith	/wiki/Chad_Smith
+3929	Cozy Powell	/wiki/Cozy_Powell
+3962	Ritchie Blackmore	/wiki/Ritchie_Blackmore
+3963	Ron McGovney	/wiki/Ron_McGovney
+3964	Diamond Head (English band)	/wiki/The_Coffin_Train
+3987	Jeff Gutt	/wiki/Jeff_Gutt
+4030	Ray Fenwick	/wiki/Ray_Fenwick
+4050	Caleb Johnson	/wiki/Caleb_Johnson
+4090	Daniel P. Carter	/wiki/Daniel_P._Carter
+4092	HIM (Finnish band)	/wiki/HIM_(Finnish_band)
+4097	John Lawton (musician)	/wiki/John_Lawton_(musician)
+4099	Rainbow (rock band)	/wiki/Rainbow_(English_band)
+4100	Wolfgang Van Halen	/wiki/Wolfgang_Van_Halen
+4101	Alex Van Halen	/wiki/Alex_Van_Halen
+4102	Chickenfoot	/wiki/Chickenfoot
+4103	The Circle (band)	/wiki/The_Circle_(band)
+4104	Michael Anthony (musician)	/wiki/Michael_Anthony_(musician)
+4105	Billy Sheehan	/wiki/Billy_Sheehan
+4106	Billy Sheehan	/wiki/Talas_(band)
+4111	David Coverdale	/wiki/David_Coverdale
+4113	Tremonti (band)	/wiki/Tremonti_(band)
+4114	Mark Tremonti	/wiki/Mark_Tremonti
+4124	Steve Vai	/wiki/Steve_Vai
+4125	Jason Becker	/wiki/Jason_Becker
+4128	Marco Mendoza	/wiki/Marco_Mendoza
+4131	Ray Luzier	/wiki/Ray_Luzier
+4132	Pat Torpey	/wiki/Pat_Torpey
+4220	James Iha	/wiki/James_Iha
+4228	Lard (band)	/wiki/Lard_(band)
+4232	East Bay Ray	/wiki/East_Bay_Ray
+4255	Larry Wallis	/wiki/Larry_Wallis
+4259	Eddie Clarke (musician)	/wiki/Eddie_Clarke_(musician)
+4260	Phil Taylor (musician)	/wiki/Phil_Taylor_(musician)
+4261	Scott Ian	/wiki/Scott_Ian
+4265	Barb Wire Dolls	/wiki/Barb_Wire_Dolls
+4266	Phil Campbell and the Bastard Sons	/wiki/Phil_Campbell_and_the_Bastard_Sons
+4267	Bad News (band)	/wiki/More_Bad_News
+4268	Henry Rollins	/wiki/Henry_Rollins
+4269	Kirk Hammett	/wiki/Kirk_Hammett
+4271	Nikki Sixx	/wiki/Nikki_Sixx
+4273	Ice-T	/wiki/Ice-T
+4277	Mike Inez	/wiki/Mike_Inez
+4279	Marky Ramone	/wiki/Marky_Ramone
+4282	Wendy O. Williams	/wiki/Wendy_O._Williams
+4283	Hear 'n Aid	/wiki/Hear_%27n_Aid
+4286	Ugly Kid Joe	/wiki/Ugly_Kid_Joe
+4287	A.N.I.M.A.L.	/wiki/A.N.I.M.A.L.
+4289	Meldrum	/wiki/Meldrum_(band)
+4290	The Warriors (band)	/wiki/The_Warriors_(band)
+4291	Airbourne (band)	/wiki/Airbourne_(band)
+4292	Michael Monroe	/wiki/Michael_Monroe
+4293	Nashville Pussy	/wiki/Nashville_Pussy
+4294	Emigrate (band)	/wiki/Emigrate_(band)
+4295	AC/DC	/wiki/AC/DC_(band)
+4296	Dave Lombardo	/wiki/Dave_Lombardo
+4298	Bad News (band)	/wiki/Bad_News_(band)
+4299	Phil Campbell (musician)	/wiki/Phil_Campbell_(musician)
+4300	Mikkey Dee	/wiki/Mikkey_Dee
+4301	Brian Robertson (guitarist)	/wiki/Brian_Robertson_(guitarist)
+4302	Würzel	/wiki/W%C3%BCrzel
+4303	Pete Gill	/wiki/Pete_Gill
+4307	Huw Lloyd-Langton	/wiki/Huw_Lloyd-Langton
+4310	Alan Davey (musician)	/wiki/Alan_Davey_(musician)
+4319	Algy Ward	/wiki/Algy_Ward
+4334	King Kobra	/wiki/King_Kobra
+4335	Into Eternity (band)	/wiki/Into_Eternity_(band)
+4359	David Bryan	/wiki/David_Bryan
+4376	Chuck D	/wiki/Chuck_D
+4379	Joe Perry (musician)	/wiki/Joe_Perry_(musician)
+4404	Dave Walker	/wiki/Dave_Walker
+4407	Brett Tuggle	/wiki/Brett_Tuggle
+4409	Rocky Shades	/wiki/Rocky_Shades
+4410	Bill Ward (musician)	/wiki/Bill_Ward_(musician)
+4411	Discharge (band)	/wiki/Discharge_(band)
+4418	The Glitter Band	/wiki/The_Glitter_Band
+4440	Dangerous Toys	/wiki/Dangerous_Toys
+4448	Harem Scarem	/wiki/Harem_Scarem
+4449	Brian Vollmer	/wiki/Brian_Vollmer
+4450	Paul Hackman	/wiki/Paul_Hackman
+4451	W.A.S.P. (band)	/wiki/W.A.S.P._(band)
+4452	Ian Gillan	/wiki/Ian_Gillan
+4453	Joe Elliott	/wiki/Joe_Elliot
+4454	Sacred Reich	/wiki/Sacred_Reich
+4455	Glen "Archie" Gamble	/wiki/Glen_%22Archie%22_Gamble
+4456	Sven Gali	/wiki/Sven_Gali
+4457	Kittie	/wiki/Mercedes_Lander
+4458	Kittie	/wiki/Kittie
+4509	Richie Sambora	/wiki/Richie_Sambora
+4510	Bon Jovi	/wiki/Alec_John_Such
+4511	Tico Torres	/wiki/Tico_Torres
+4528	Tommy Shaw	/wiki/Tommy_Shaw
+4534	Jack Blades	/wiki/Jack_Blades
+4535	Michael Cartellone	/wiki/Michael_Cartellone
+4540	Overdrive (band)	/wiki/Overdrive_(band)
+4557	Ian Paice	/wiki/Ian_Paice
+4569	Vanilla Ice	/wiki/Vanilla_Ice
+4571	Chuck D	/wiki/Chuck_D.
+4573	Urban Dance Squad	/wiki/Urban_Dance_Squad
+4574	Cliff Burton	/wiki/Cliff_Burton
+4602	Robert Plant	/wiki/Strange_Sensation
+4623	Sprung Monkey	/wiki/Sprung_Monkey
+4631	Brooks Wackerman	/wiki/Brooks_Wackerman
+4647	A Day to Remember	/wiki/A_Day_To_Remember
+4653	Shawn Crahan	/wiki/Shawn_Crahan
+4654	Craig Jones (musician)	/wiki/Craig_Jones_(musician)
+4655	Mick Thomson	/wiki/Mick_Thomson
+4656	Sid Wilson	/wiki/Sid_Wilson
+4657	Alessandro Venturella	/wiki/Alessandro_Venturella
+4658	Jay Weinberg	/wiki/Jay_Weinberg
+4659	Paul Gray (American musician)	/wiki/Paul_Gray_(American_musician)
+4660	Joey Jordison	/wiki/Joey_Jordison
+4661	Donnie Steele	/wiki/Donnie_Steele
+4662	Chris Fehn	/wiki/Chris_Fehn
+4663	Slipknot (band)	/wiki/Anders_Colsefni
+4664	Slipknot (band)	/wiki/Josh_Brainard
+4665	Ross Robinson	/wiki/Ross_Robinson
+4666	Murderdolls	/wiki/Murderdolls
+4668	3 Inches of Blood	/wiki/3_Inches_of_Blood
+4670	Dave Fortman	/wiki/Dave_Fortman
+4672	Will Haven	/wiki/Will_Haven
+4673	Sinsaenum	/wiki/Sinsaenum
+4674	King 810	/wiki/King_810
+4675	Deicide (band)	/wiki/Deicide_(band)
+4676	Malevolent Creation	/wiki/Malevolent_Creation
+4677	Mr. Bungle	/wiki/Mr._Bungle
+4678	Converge (band)	/wiki/Converge_(band)
+4679	Mayhem (band)	/wiki/Mayhem_(band)
+4680	Emperor (band)	/wiki/Emperor_(band)
+4681	Morbid Angel	/wiki/Morbid_Angel
+4682	Gorefest	/wiki/Gorefest
+4683	Mushroomhead	/wiki/Mushroomhead
+4684	Amen (American band)	/wiki/Amen_(American_band)
+4685	Waylon Reavis	/wiki/Waylon_Reavis
+4686	Mudvayne	/wiki/Mudvayne
+4687	Gwar	/wiki/Gwar
+4688	Brandon Darner	/wiki/Brandon_Darner
+4689	Scott Gorham	/wiki/Scott_Gorham
+4699	Tom Hamilton (musician)	/wiki/Tom_Hamilton_(musician)
+4700	Joey Kramer	/wiki/Joey_Kramer
+4701	Brad Whitford	/wiki/Brad_Whitford
+4738	Demir Demirkan	/wiki/Demir_Demirkan
+4740	Mr Lordi	/wiki/Mr_Lordi
+4746	Tommy Nilsson	/wiki/Tommy_Nilsson
+4811	Biff Byford	/wiki/Biff_Byford
+4812	Nigel Glockler	/wiki/Nigel_Glockler
+4813	Graham Oliver	/wiki/Graham_Oliver
+4814	Steve Dawson	/wiki/Steve_Dawson
+4815	King Diamond (band)	/wiki/King_Diamond_(band)
+4817	Jörg Michael	/wiki/J%C3%B6rg_Michael
+4818	Andy Sneap	/wiki/Andy_Sneap
+4819	Neil Turbin	/wiki/Neil_Turbin
+4822	Yenz Leonhardt	/wiki/Yenz_Leonhardt
+4863	M. Shadows	/wiki/M.Shadows
+4867	Asking Alexandria	/wiki/Asking_Alexandria
+4869	Heaven's Basement	/wiki/Heaven%27s_Basement
+4871	Memphis May Fire	/wiki/Memphis_May_Fire
+4872	The Word Alive	/wiki/The_Word_Alive
+4873	With One Last Breath	/wiki/With_One_Last_Breath
+4874	All That Remains (band)	/wiki/All_That_Remains_(band)
+4875	Ben Bruce	/wiki/Ben_Bruce
+4876	Denis Stoff	/wiki/Denis_Stoff
+4877	Sebastian Bach	/wiki/Sebastian_Bach
+4878	Revolution Renaissance	/wiki/Revolution_Renaissance
+4881	Andy Biersack	/wiki/Andy_Biersack
+4882	Celldweller	/wiki/Celldweller
+4883	Joe Lancaster (musician)	/wiki/Joe_Lancaster_(musician)
+4891	Paul Laine	/wiki/Paul_Laine
+4898	Bob Rock	/wiki/Bob_Rock
+4903	Tommy Lee	/wiki/Tommy_Lee
+4918	Empalot	/wiki/Empalot
+4919	Christian Andreu	/wiki/Christian_Andreu
+4920	Joe Duplantier	/wiki/Joe_Duplantier
+4921	Mario Duplantier	/wiki/Mario_Duplantier
+4922	Jean-Michel Labadie	/wiki/Jean-Michel_Labadie
+4923	Edge of Sanity	/wiki/Edge_of_Sanity
+4924	Impaled Nazarene	/wiki/Impaled_Nazarene
+4925	Immortal (band)	/wiki/Immortal_(band)
+4926	Sanctity (band)	/wiki/Sanctity_(band)
+4927	Annihilator (band)	/wiki/Annihilator_(band)
+4928	Beneath the Massacre	/wiki/Beneath_the_Massacre
+4929	The Chariot (band)	/wiki/The_Chariot_(band)
+4930	Car Bomb (band)	/wiki/Car_Bomb_(band)
+4931	Logan Mader	/wiki/Logan_Mader
+4932	Devin Townsend	/wiki/Devin_Townsend
+4933	Fredrik Thordendal	/wiki/Fredrik_Thordendal
+4934	Anders Fridén	/wiki/Anders_Frid%C3%A9n
+4935	Jonas Renkse	/wiki/Jonas_Renkse
+4936	Tesseract (band)	/wiki/Tesseract_(band)
+4937	Like a Storm	/wiki/Like_a_Storm
+4938	Code Orange (band)	/wiki/Code_Orange_(band)
+4939	Pallbearer (band)	/wiki/Pallbearer_(band)
+4940	Oni (band)	/wiki/Oni_(band)
+4941	Torche (band)	/wiki/Torche_(band)
+4942	Igor Cavalera	/wiki/Igor_Cavalera
+4943	Cavalera Conspiracy	/wiki/Cavalera_Conspiracy
+4944	Empalot	/wiki/Empalot_en_Concert
+4945	Godflesh	/wiki/Godflesh
+4988	Pete Agnew	/wiki/Pete_Agnew
+4989	Dan McCafferty	/wiki/Dan_McCafferty
+4990	Darrell Sweet (musician)	/wiki/Darrell_Sweet_(musician)
+4991	Manny Charlton	/wiki/Manny_Charlton
+4992	Zal Cleminson	/wiki/Zal_Cleminson
+4994	Roger Glover	/wiki/Roger_Glover
+4996	Geezer Butler Band	/wiki/Geezer_Butler_Band
+4997	Chris Jericho	/wiki/Chris_Jericho
+5034	Lzzy Hale	/wiki/Lzzy_Hale
+5051	Cris Bonacci	/wiki/Cris_Bonacci
+5053	Tommy Stinson	/wiki/Tommy_Stinson
+5075	HolyHell	/wiki/HolyHell
+5077	David Shankle Group	/wiki/David_Shankle_Group
+5078	Brain Surgeons	/wiki/Brain_Surgeons
+5079	Joey DeMaio	/wiki/Joey_DeMaio
+5080	Eric Adams (musician)	/wiki/Eric_Adams_(musician)
+5081	Ross the Boss	/wiki/Ross_the_Boss
+5082	Scott Columbus	/wiki/Scott_Columbus
+5083	David Shankle	/wiki/David_Shankle
+5084	Kenny Earl	/wiki/Kenny_Earl
+5085	Karl Logan	/wiki/Karl_Logan
+5086	HammerFall	/wiki/HammerFall
+5087	Manowar	/wiki/Battle_Hymns_Tour
+5132	Mike DiMeo	/wiki/Mike_DiMeo
+5163	Don Airey	/wiki/Don_Airey
+5164	Steve Morse	/wiki/Steve_Morse
+5168	Living Loud	/wiki/Living_Loud
+5172	Warhorse (British band)	/wiki/Warhorse_(British_band)
+5173	Nick Simper	/wiki/Nick_Simper
+5175	Glenn Hughes (musician)	/wiki/Glenn_Hughes_(English_singer)
+5176	Tommy Bolin	/wiki/Tommy_Bolin
+5185	Mick Underwood	/wiki/Mick_Underwood
+5196	Jimi Jamison	/wiki/Jimi_Jamison
+5197	Brian Howe (singer)	/wiki/Brian_Howe_(singer)
+5201	Lion (band)	/wiki/Lion_(band)
+5202	Bad Moon Rising (band)	/wiki/Bad_Moon_Rising_(band)
+5204	Steve Harris (musician)	/wiki/Steve_Harris_(musician)
+5205	Till Lindemann	/wiki/Till_Lindemann
+5206	Jacoby Shaddix	/wiki/Jacoby_Shaddix
+5207	Steve Stevens	/wiki/Steve_Stevens
+5208	Fozzy	/wiki/Fozzy
+5210	Glenn Hughes (musician)	/wiki/Glenn_Hughes_(musician)
+5212	Gary Moore	/wiki/Gary_Moore
+5213	WhoCares	/wiki/WhoCares
+5224	Snapcase	/wiki/Snapcase
+5225	Earth Crisis	/wiki/Earth_Crisis
+5226	Pete Wentz	/wiki/Pete_Wentz
+5228	Bring Me the Horizon	/wiki/Bring_Me_the_Horizon
+5231	Hollywood Undead	/wiki/Hollywood_Undead
+5262	X Japan	/wiki/X_Japan
+5263	Taylor Hawkins	/wiki/Taylor_Hawkins
+5267	Rufus Tiger Taylor	/wiki/Rufus_Tiger_Taylor
+5310	Cheap Trick	/wiki/Pete_Comita
+5317	Tod Howarth	/wiki/Tod_Howarth
+5322	Kevin Martin (American musician)	/wiki/Kevin_Martin_(American_musician)
+5323	Shannon Larkin	/wiki/Shannon_Larkin
+5328	Ken Andrews	/wiki/Ken_Andrews
+5329	Failure (band)	/wiki/Failure_(band)
+5330	Thousand Foot Krutch	/wiki/Thousand_Foot_Krutch
+5333	John Zorn	/wiki/John_Zorn
+5337	Dick Wagner	/wiki/Dick_Wagner
+5354	Paul Di'Anno	/wiki/Paul_Di%27Anno
+5355	Rogue Male (band)	/wiki/Rogue_Male_(band)
+5356	Tokyo Blade	/wiki/Tokyo_Blade
+5366	Graham Bonnet	/wiki/Graham_Bonnet
+5463	Cliff Williams	/wiki/Cliff_Williams
+5468	Simon Wright (musician)	/wiki/Simon_Wright_(musician)
+5469	Chris Slade	/wiki/Chris_Slade
+5475	Back Street Crawler (band)	/wiki/Back_Street_Crawler_(band)
+5477	Geezer Butler	/wiki/Geezer_Butler
+5483	Lemmy	/wiki/Lemmy
+5491	Terry Chimes	/wiki/Terry_Chimes
+5528	Therapy?	/wiki/Therapy%3F
+5541	Church of Misery	/wiki/Church_of_Misery
+5542	Tony Martin (British singer)	/wiki/Tony_Martin_(rock_singer)
+5544	Propagandhi	/wiki/Propagandhi
+5548	Repugnant	/wiki/Repugnant
+5549	Messiah Marcolin	/wiki/Messiah_Marcolin
+5550	Mats Levén	/wiki/Mats_Lev%C3%A9n
+5551	Paradise Lost (band)	/wiki/Paradise_Lost_(band)
+5552	Phil Anselmo	/wiki/Phil_Anselmo
+5553	Rise to Remain	/wiki/Rise_to_Remain
+5554	Nothing More	/wiki/Nothing_More
+5556	Tribulation (band)	/wiki/Tribulation_(band)
+5557	Crashdïet	/wiki/Crashd%C3%AFet
+5558	Lez Zeppelin	/wiki/Lez_Zeppelin
+5566	Twiztid	/wiki/Twiztid
+5589	Godhead (band)	/wiki/Godhead_(band)
+5590	Scott Putesky	/wiki/Scott_Putesky
+5592	Twiggy Ramirez	/wiki/Jeordie_White
+5593	Madonna Wayne Gacy	/wiki/Madonna_Wayne_Gacy
+5597	Gidget Gein	/wiki/Gidget_Gein
+5600	D'Hask	/wiki/D%27Hask
+5601	Marilyn Manson (band)	/wiki/List_of_Marilyn_Manson_concert_tours
+5602	Marilyn Manson	/wiki/Phantasmagoria:_The_Visions_of_Lewis_Carroll
+5603	Juan Alderete	/wiki/Juan_Alderete
+5604	Olivia Newton Bundy	/wiki/Olivia_Newton_Bundy
+5606	Tim Sköld	/wiki/Tim_Sk%C3%B6ld
+5607	Ginger Fish	/wiki/Ginger_Fish
+5608	Chris Vrenna	/wiki/Chris_Vrenna
+5609	Fred Sablan	/wiki/Fred_Sablan
+5610	Twiggy Ramirez	/wiki/Twiggy_Ramirez
+5612	Gil Sharone	/wiki/Gil_Sharone
+5662	Randy Jackson (Zebra)	/wiki/Randy_Jackson_(Zebra)
+5663	Felix Hanemann	/wiki/Felix_Hanemann
+5682	Adrian Vandenberg	/wiki/Adrian_Vandenberg
+5683	Ronnie Romero	/wiki/Ronnie_Romero
+5684	Brian Tichy	/wiki/Brian_Tichy
+5689	Terry Brown (record producer)	/wiki/Terry_Brown_(record_producer)
+5702	Vince Neil	/wiki/Vince_Neil
+5728	Bloodgood	/wiki/Bloodgood
+5730	XT (band)	/wiki/XT_(band)
+5731	Poison (German band)	/wiki/Poison_(German_band)
+5732	C.C. DeVille	/wiki/C.C._DeVille
+5733	Rikki Rockett	/wiki/Rikki_Rockett
+5734	Bobby Dall	/wiki/Bobby_Dall
+5735	Blues Saraceno	/wiki/Blues_Saraceno
+5737	Cinderella (band)	/wiki/Cinderella_(band)
+5739	Thunder (band)	/wiki/Thunder_(band)
+5742	Endeverafter	/wiki/Endeverafter
+5743	Vains of Jenna	/wiki/Vains_of_Jenna
+5745	Tracii Guns	/wiki/Tracii_Guns
+5746	L.A. Guns	/wiki/L.A._Guns
+5747	Eric Brittingham	/wiki/Eric_Brittingham
+5765	Josh Todd	/wiki/Josh_Todd
+5768	Mother Love Bone	/wiki/Mother_Love_Bone
+5769	Randy Castillo	/wiki/Randy_Castillo
+5770	Sixx:A.M.	/wiki/Sixx:A.M.
+5771	Trapt	/wiki/Trapt
+5772	Escape the Fate	/wiki/Escape_the_Fate
+5773	The 69 Eyes	/wiki/The_69_Eyes
+5776	Jetboy (band)	/wiki/Jetboy_(band)
+5816	Eric Avery	/wiki/Eric_Avery
+5823	Orodruin (band)	/wiki/Orodruin_(band)
+5829	Pat Travers	/wiki/Pat_Travers
+5839	Hater (band)	/wiki/Hater_(band)
+5849	Jason Everman	/wiki/Jason_Everman
+5850	Ben Shepherd	/wiki/Ben_Shepherd
+5851	Scott Sundquist	/wiki/Scott_Sundquist
+5852	Kim Thayil	/wiki/Kim_Thayil
+5853	Hiro Yamamoto	/wiki/Hiro_Yamamoto
+5854	Soundgarden	/wiki/List_of_Soundgarden_band_members
+5873	Bruce Kulick	/wiki/Bruce_Kulick
+5877	Mark Arm	/wiki/Mark_Arm
+5884	Bundle of Hiss	/wiki/Bundle_of_Hiss
+5937	Layne Staley	/wiki/Layne_Staley
+5939	Glenn Danzig	/wiki/Glenn_Danzig
+5940	Danzig (band)	/wiki/Danzig_(band)
+5941	James LaBrie	/wiki/James_LaBrie
+5942	Scott Stapp	/wiki/Scott_Stapp
+5943	HIM (Finnish band)	/wiki/H.I.M.
+5944	Travis Meeks	/wiki/Travis_Meeks
+5992	Elijah Blue Allman	/wiki/Elijah_Blue_Allman
+5993	Picture Me Broken	/wiki/Layla_Brooklyn_Allman
+5998	Cold (band)	/wiki/Cold_(band)
+5999	Black Light Burns	/wiki/Black_Light_Burns
+6000	John Otto (drummer)	/wiki/John_Otto_(drummer)
+6001	Sam Rivers (bassist)	/wiki/Sam_Rivers_(bassist)
+6002	Wes Borland	/wiki/Wes_Borland
+6003	Terry Balsamo	/wiki/Terry_Balsamo
+6004	Mike Smith (guitarist)	/wiki/Mike_Smith_(guitarist)
+6005	Reginald Arvizu	/wiki/Reginald_Arvizu
+6006	Roddy Bottum	/wiki/Roddy_Bottum
+6008	Snot (band)	/wiki/Snot_(band)
+6009	Lynn Strait	/wiki/Lynn_Strait
+6010	Aaron Lewis	/wiki/Aaron_Lewis
+6011	Les Claypool	/wiki/Les_Claypool
+6012	Richard Patrick	/wiki/Richard_Patrick
+6013	P.O.D.	/wiki/P.O.D.
+6014	Sevendust	/wiki/Sevendust
+6016	Tomahawk (band)	/wiki/Tomahawk_(band)
+6017	Prong (band)	/wiki/Prong_(band)
+6019	Brian Welch	/wiki/Brian_Welch
+6020	Black Light Burns	/wiki/Nick_Annis
+6021	The Damning Well	/wiki/The_Damning_Well
+6027	Keith Wallen	/wiki/Keith_Wallen
+6028	Benjamin Burnley	/wiki/Benjamin_Burnley
+6029	Lifer (band)	/wiki/Lifer_(band)
+6030	Red (band)	/wiki/Red_(band)
+6032	Picture Me Broken	/wiki/Picture_Me_Broken
+6033	Young Guns (band)	/wiki/Young_Guns_(band)
+6035	Underoath	/wiki/Underoath
+6036	Saint Asonia	/wiki/Saint_Asonia
+6037	Lacey Sturm	/wiki/Lacey_Sturm
+6038	Scooter Ward	/wiki/Scooter_Ward
+6039	Spencer Chamberlain	/wiki/Spencer_Chamberlain
+6062	Andy Scott (guitarist)	/wiki/Andy_Scott_(guitarist)
+6068	Arjen Anthony Lucassen	/wiki/Arjen_Lucassen
+6069	Status Quo (band)	/wiki/Aquostic_II:_That%27s_a_Fact
+6080	Chuck Schuldiner	/wiki/Chuck_Schuldiner
+6084	David Allan Coe	/wiki/David_Allen_Coe
+6088	Howard Benson	/wiki/Howard_Benson
+6104	ASAP (band)	/wiki/ASAP_(band)
+6105	Psycho Motel	/wiki/The_Untouchables_(rock_band)
+6106	Psycho Motel	/wiki/Psycho_Motel
+6108	Adrian Smith	/wiki/Adrian_Smith
+6109	Dave Murray (musician)	/wiki/Dave_Murray_(musician)
+6110	Maurice Coyne	/wiki/Maurice_Coyne
+6112	Dennis Stratton	/wiki/Dennis_Stratton
+6113	Nicko McBrain	/wiki/Nicko_McBrain
+6131	Mark Kendall (guitarist)	/wiki/Mark_Kendall_(guitarist)
+6132	Audie Desbrow	/wiki/Audie_Desbrow
+6133	Michael Lardie	/wiki/Michael_Lardie
+6134	Ty Longley	/wiki/Ty_Longley
+6135	Jack Russell (musician)	/wiki/Jack_Russell_(musician)
+6136	John Bush (musician)	/wiki/John_Bush_(musician)
+6137	George Lynch (musician)	/wiki/George_Lynch_(musician)
+6138	Sean McNabb	/wiki/Sean_McNabb
+6139	Jani Lane	/wiki/Jani_Lane
+6140	Paul Shortino	/wiki/Paul_Shortino
+6141	Dave Spitz	/wiki/Dave_Spitz
+6156	Astrid Young	/wiki/Astrid_Young
+6171	Martin Gerschwitz	/wiki/Martin_Gerschwitz
+6309	Ilan Rubin	/wiki/Ilan_Rubin
+6311	Chad Gilbert	/wiki/Chad_Gilbert
+6318	Aaron Gillespie	/wiki/Aaron_Gillespie
+6343	Default (band)	/wiki/Default_(band)
+6363	Dave King (Irish singer)	/wiki/Dave_King_(Irish_singer)
+6365	Fastway (band)	/wiki/Fastway_(band)
+6366	Pete Way	/wiki/Pete_Way
+6367	Mandy Meyer	/wiki/Mandy_Meyer
+6375	Fenriz	/wiki/Fenriz
+6376	Nocturno Culto	/wiki/Nocturno_Culto
+6377	Ivar Enger	/wiki/Ivar_Enger
+6378	Autopsy (band)	/wiki/Autopsy_(band)
+6379	Hellhammer	/wiki/Hellhammer
+6380	Nocturnus	/wiki/Nocturnus
+6381	Nihilist (band)	/wiki/Nihilist_(band)
+6382	Entombed (band)	/wiki/Entombed_(band)
+6383	Tomas Lindberg	/wiki/Tomas_Lindberg
+6384	Grotesque (band)	/wiki/Grotesque_(band)
+6385	At the Gates	/wiki/At_the_Gates
+6386	Sigurd Wongraven	/wiki/Sigurd_Wongraven
+6387	Satyricon (band)	/wiki/Satyricon_(band)
+6388	Storm (Norwegian band)	/wiki/Storm_(Norwegian_band)
+6389	Dødheimsgard	/wiki/D%C3%B8dheimsgard
+6390	Enslaved (band)	/wiki/Enslaved_(band)
+6391	Grutle Kjellson	/wiki/Grutle_Kjellson
+6392	Ivar Enger	/wiki/Zephyrous
+6393	Aura Noir	/wiki/Aura_Noir
+6394	Dead (musician)	/wiki/Dead_(musician)
+6395	Sarke	/wiki/Sarke
+6396	Valhall (band)	/wiki/Valhall_(band)
+6397	Taake	/wiki/Taake
+6398	Darkthrone	/wiki/Dag_Nilsen
+6399	Darkthrone	/wiki/Forebyggende_Krig
+6431	Awaken the Empire	/wiki/Damien_Lawson
+6442	Jason Wilkes (musician)	/wiki/Jason_Wilkes_(musician)
+6472	A Perfect Circle	/wiki/A_Perfect_Circle
+6487	Neal Morse	/wiki/Neal_Morse
+6489	Alice Cooper (band)	/wiki/The_Spiders_(American_rock_band)
+6490	Glen Buxton	/wiki/Glen_Buxton
+6491	Michael Bruce (musician)	/wiki/Michael_Owen_Bruce
+6492	Dennis Dunaway	/wiki/Dennis_Dunaway
+6493	Neal Smith (drummer)	/wiki/Neal_Smith_(drummer)
+6497	Kane Roberts	/wiki/Kane_Roberts
+6498	Kip Winger	/wiki/Kip_Winger
+6499	Eric Singer	/wiki/Eric_Singer
+6500	Avantasia	/wiki/Avantasia
+6501	Tommy Henriksen	/wiki/Tommy_Henriksen
+6506	Glen Sobel	/wiki/Glen_Sobel
+6507	Nita Strauss	/wiki/Nita_Strauss
+6508	Orianthi	/wiki/Orianthi
+6509	Paul Taylor (keyboardist)	/wiki/Paul_Taylor_(keyboardist)
+6511	Alice Cooper	/wiki/Vincent_Damon_Furnier
+6512	Michael Bruce (musician)	/wiki/Michael_Bruce_(musician)
+6536	Tim Pierce	/wiki/Tim_Pierce
+6539	Phil X	/wiki/Phil_X
+6590	Jonathan Mover	/wiki/Jonathan_Mover
+6600	Ñu	/wiki/%C3%91u
+6621	Tommy Aldridge	/wiki/Tommy_Aldridge
+6622	Reb Beach	/wiki/Reb_Beach
+6623	Joel Hoekstra	/wiki/Joel_Hoekstra
+6624	Michele Luppi	/wiki/Michele_Luppi
+6625	Micky Moody	/wiki/Micky_Moody
+6626	Neil Murray (British musician)	/wiki/Neil_Murray_(British_musician)
+6627	Mel Galley	/wiki/Mel_Galley
+6629	Warren DeMartini	/wiki/Warren_DeMartini
+6631	Tony Franklin (musician)	/wiki/Tony_Franklin_(musician)
+6632	Doug Aldrich	/wiki/Doug_Aldrich
+6634	Chris Frazier	/wiki/Chris_Frazier
+6636	Secret Sphere	/wiki/Secret_Sphere
+6637	Vision Divine	/wiki/Vision_Divine
+6638	The Snakes	/wiki/The_Snakes
+6701	Michael Schenker Group	/wiki/Michael_Schenker_Group
+6702	Rudolf Schenker	/wiki/Rudolf_Schenker
+6703	Klaus Meine	/wiki/Klaus_Meine
+6704	Matthias Jabs	/wiki/Matthias_Jabs
+6705	Francis Buchholz	/wiki/Francis_Buchholz
+6706	Herman Rarebell	/wiki/Herman_Rarebell
+6707	Dieter Dierks	/wiki/Dieter_Dierks
+6708	Uli Jon Roth	/wiki/Ulrich_Roth
+6709	Jürgen Rosenthal	/wiki/J%C3%BCrgen_Rosenthal
+6711	Don Dokken	/wiki/Don_Dokken
+6712	James Kottak	/wiki/James_Kottak
+6713	Greg Fidelman	/wiki/Greg_Fidelman
+6723	Doane Perry	/wiki/Doane_Perry
+6727	John Campbell (bassist)	/wiki/John_Campbell_(bassist)
+6728	Art Cruz	/wiki/Art_Cruz
+6729	Mark Morton (musician)	/wiki/Mark_Morton_(musician)
+6730	Lamb of God (band)	/wiki/Willie_Adler
+6731	Chris Adler	/wiki/Chris_Adler_(drummer)
+6732	Today Is the Day	/wiki/Today_Is_the_Day
+6733	Today Is the Day	/wiki/Steve_Austin_(musician)
+6734	Alex Skolnick	/wiki/Alex_Skolnick
+6735	Thine Eyes Bleed	/wiki/Thine_Eyes_Bleed
+6736	Killswitch Engage	/wiki/Killswitch_Engage
+6737	As I Lay Dying (band)	/wiki/As_I_Lay_Dying_(band)
+6738	Municipal Waste (band)	/wiki/Municipal_Waste_(band)
+6739	Unearth	/wiki/Unearth
+6740	Paul Waggoner	/wiki/Paul_Waggoner
+6741	Between the Buried and Me	/wiki/Between_the_Buried_and_Me
+6742	Winds of Plague	/wiki/Winds_of_Plague
+6743	Power Trip (band)	/wiki/Power_Trip_(band)
+6745	Obituary (band)	/wiki/Obituary_(band)
+6746	Bolt Thrower	/wiki/Bolt_Thrower
+6747	Dirty Rotten Imbeciles	/wiki/Dirty_Rotten_Imbeciles
+6748	Aerosmith	/wiki/Aerosmith_(band)
+6749	Matt DeVries	/wiki/Matt_DeVries
+6792	The Datsuns	/wiki/The_Datsuns
+6827	Larry LaLonde	/wiki/Larry_LaLonde
+6832	Mike Portnoy	/wiki/Mike_Portnoy
+6833	Strapping Young Lad	/wiki/Strapping_Young_Lad
+6834	Clawfinger	/wiki/Clawfinger
+6868	Chris Traynor	/wiki/Chris_Traynor
+6872	Stone Gods	/wiki/Stone_Gods
+6873	Ed Graham	/wiki/Ed_Graham
+6889	Danny Carey	/wiki/Danny_Carey
+6892	Gang Green	/wiki/Gang_Green
+6924	Tim McCord	/wiki/Tim_McCord
+6925	Will Hunt	/wiki/Will_Hunt
+6926	Troy McLawhorn	/wiki/Troy_McLawhorn
+6927	Dark New Day	/wiki/Dark_New_Day
+6928	Within Temptation	/wiki/Within_Temptation
+6929	Rocky Gray	/wiki/Rocky_Gray
+6930	John LeCompt	/wiki/John_LeCompt
+6931	Fair to Midland	/wiki/Fair_to_Midland
+6932	12 Stones	/wiki/Paul_McCoy
+6933	The Revolution Smile	/wiki/The_Revolution_Smile
+6934	Shihad	/wiki/Shihad
+6935	Finger Eleven	/wiki/Finger_Eleven
+6936	We Are the Fallen	/wiki/We_Are_the_Fallen
+6938	Shaun Morgan	/wiki/Shaun_Morgan
+6939	Pitty	/wiki/Pitty
+6940	Detonautas Roque Clube	/wiki/Detonautas_Roque_Clube
+6941	Dazzle Vision	/wiki/Dazzle_Vision
+6943	Equilibrium (band)	/wiki/Equilibrium_(band)
+6946	Sharon den Adel	/wiki/Sharon_den_Adel
+6947	Adrian Jackson (musician)	/wiki/Adrian_Jackson_(musician)
+6948	My Dying Bride	/wiki/My_Dying_Bride
+6954	Leslie West	/wiki/Leslie_West
+6956	Frank Marino	/wiki/Frank_Marino
+6958	Ronnie Montrose	/wiki/Ronnie_Montrose
+6959	M.O.D.	/wiki/M.O.D.
+6960	Billy Milano	/wiki/Billy_Milano
+6961	Mind Funk	/wiki/Mind_Funk
+6963	Cathedral (band)	/wiki/Cathedral_(band)
+6994	Alessandro Cortini	/wiki/Alessandro_Cortini
+7005	Art of Anarchy	/wiki/Art_of_Anarchy
+7006	Projected	/wiki/Projected
+7007	Brian Marshall	/wiki/Brian_Marshall
+7008	Scott Phillips (musician)	/wiki/Scott_Phillips_(musician)
+7009	Myles Kennedy	/wiki/Myles_Kennedy
+7011	Brett Hestla	/wiki/Brett_Hestla
+7012	Virgos Merlot	/wiki/Virgos_Merlot
+7014	Eric Friedman	/wiki/Eric_Friedman
+7015	Forbidden (band)	/wiki/Forbidden_(band)
+7024	Umphrey's McGee	/wiki/Umphrey%27s_McGee
+7040	Grady (band)	/wiki/Grady_(band)
+7045	Brian Ross (singer)	/wiki/Brian_Ross_(singer)
+7046	Avenger (British band)	/wiki/Avenger_(British_band)
+7049	Andrew Freeman (musician)	/wiki/Andrew_Freeman_(musician)
+7053	T.S.O.L.	/wiki/T.S.O.L.
+7070	Tom Thacker (musician)	/wiki/Tom_Thacker_(musician)
+7079	Peter Criss	/wiki/Peter_Criss
+7080	Eric Carr	/wiki/Eric_Carr
+7081	Vinnie Vincent	/wiki/Vinnie_Vincent
+7082	Mark St. John	/wiki/Mark_St._John
+7085	Punky Meadows	/wiki/Punky_Meadows
+7086	Badlands (American band)	/wiki/Badlands_(American_band)
+7088	Gilby Clarke	/wiki/Gilby_Clarke
+7089	White Tiger (band)	/wiki/White_Tiger_(band)
+7095	Frehley's Comet	/wiki/Frehley%27s_Comet
+7097	Vinnie Vincent Invasion	/wiki/Vinnie_Vincent_Invasion
+7120	Bill Rieflin	/wiki/Bill_Rieflin
+7144	Mike Stone (musician)	/wiki/Mike_Stone_(musician)
+7159	Marco Sfogli	/wiki/Marco_Sfogli
+7184	Bad Brains	/wiki/Bad_Brains
+7192	Amery Smith	/wiki/Amery_Smith
+7194	Rollins Band	/wiki/Rollins_Band
+7197	Joe Trohman	/wiki/Joe_Trohman
+7198	Andy Hurley	/wiki/Andy_Hurley
+7199	Arma Angelus	/wiki/Arma_Angelus
+7200	Racetraitor	/wiki/Racetraitor
+7201	The Damned Things	/wiki/The_Damned_Things
+7202	The Killing Tree	/wiki/The_Killing_Tree
+7203	Tim McIlrath	/wiki/Tim_McIlrath
+7204	7 Angels 7 Plagues	/wiki/7_Angels_7_Plagues
+7217	Rob Caggiano	/wiki/Rob_Caggiano
+7218	Keith Buckley	/wiki/Keith_Buckley
+7219	Every Time I Die	/wiki/Every_Time_I_Die
+7229	Vinnie Moore	/wiki/Vinnie_Moore
+7244	Adrian Bushby	/wiki/Adrian_Bushby
+7250	Magali Luyten	/wiki/Magali_Luyten
+7251	Theatre of Tragedy	/wiki/Theatre_of_Tragedy
+7252	Carpathian Forest	/wiki/Carpathian_Forest
+7253	After Forever	/wiki/After_Forever
+7254	Dark Moor	/wiki/Dark_Moor
+7262	Deryck Whibley	/wiki/Deryck_Whibley
+7276	Rina Sawayama	/wiki/Rina_Sawayama
+7285	Scott Darlow	/wiki/Scott_Darlow
+7317	The Struts	/wiki/The_Struts
+7346	Steeler (American band)	/wiki/Steeler_(American_band)
+7347	Alcatrazz	/wiki/Alcatrazz
+7348	Mike Varney	/wiki/Mike_Varney
+7349	Barriemore Barlow	/wiki/Barriemore_Barlow
+7350	Jens Johansson	/wiki/Jens_Johansson
+7351	Marcel Jacob	/wiki/Marcel_Jacob
+7352	Wally Voss	/wiki/Wally_Voss
+7353	Mark Boals	/wiki/Mark_Boals
+7354	Bob Daisley	/wiki/Bob_Daisley
+7355	Doogie White	/wiki/Doogie_White
+7356	Beyond Fear	/wiki/Beyond_Fear
+7357	Tim "Ripper" Owens	/wiki/Tim_%22Ripper%22_Owens
+7358	Ron "Bumblefoot" Thal	/wiki/Ron_%22Bumblefoot%22_Thal
+7359	Gary Hoey	/wiki/Gary_Hoey
+7361	Kelly Keeling	/wiki/Kelly_Keeling
+7363	Göran Edman	/wiki/G%C3%B6ran_Edman
+7364	Michael Vescera	/wiki/Michael_Vescera
+7365	Jørn Lande	/wiki/J%C3%B8rn_Lande
+7367	John Macaluso	/wiki/John_Macaluso
+7368	Pete Barnacle	/wiki/Pete_Barnacle
+7369	Jan Uvena	/wiki/Jan_Uvena
+7371	John Petrucci	/wiki/John_Petrucci
+7373	Ron Keel	/wiki/Ron_Keel
+7374	Steeler (American band)	/wiki/Kurt_James
+7375	Greg Chaisson	/wiki/Greg_Chaisson
+7378	Cronos (band)	/wiki/Cronos_(band)
+7379	Conrad Lant	/wiki/Conrad_Lant
+7380	Jeffrey Dunn	/wiki/Jeffrey_Dunn
+7381	Tony Dolan	/wiki/Tony_Dolan
+7382	Anthony Lant	/wiki/Anthony_Lant
+7383	Jeffrey Dunn	/wiki/Jeff_%22Mantas%22_Dunn
+7384	Jeramie Kling	/wiki/Jeramie_Kling
+7385	Exodus (American band)	/wiki/Exodus_(band)
+7387	Brad Gillis	/wiki/Brad_Gillis
+7388	Keri Kelli	/wiki/Keri_Kelli
+7389	Jeff Watson (guitarist)	/wiki/Jeff_Watson_(guitarist)
+7390	Fred Coury	/wiki/Fred_Coury
+7392	Austin John	/wiki/Austin_Winkler
+7393	Hugo Ferreira	/wiki/Hugo_Ferreira
+7395	Jesse Vest	/wiki/Jesse_Vest
+7396	Scott Wilson (musician)	/wiki/Scott_Wilson_(musician)
+7397	Austin John	/wiki/Austin_John
+7398	TJ Taylor (musician)	/wiki/TJ_Taylor_(musician)
+7399	Jerry Cantrell	/wiki/Jerry_Cantrell
+7426	Gun (band)	/wiki/Gun_(band)
+7445	James Shaffer	/wiki/James_Shaffer
+7446	L.A.P.D. (band)	/wiki/L.A.P.D._(band)
+7447	Jonathan Davis and the SFA	/wiki/Jonathan_Davis_and_the_SFA
+7448	David Silveria	/wiki/David_Silveria
+7449	Biohazard (band)	/wiki/Biohazard_(band)
+7450	The Urge	/wiki/The_Urge
+7451	Dir En Grey	/wiki/Dir_En_Grey
+7452	Atreyu	/wiki/Atreyu_(band)
+7453	Matt Heafy	/wiki/Matt_Heafy
+7454	Skindred	/wiki/Skindred
+7455	Benji Webbe	/wiki/Benji_Webbe
+7456	M. Shadows	/wiki/M._Shadows
+7457	Zac Baird	/wiki/Zac_Baird
+7459	Clint Lowery	/wiki/Clint_Lowery
+7460	Dave McClain (musician)	/wiki/Dave_McClain_(drummer)
+7461	Chi Cheng (musician)	/wiki/Chi_Cheng_(musician)
+7462	In This Moment	/wiki/In_This_Moment
+7463	James Shaffer	/wiki/James_%22Munky%22_Shaffer
+7464	Ryan Martinie	/wiki/Ryan_Martinie
+7465	Korn	/wiki/Tye_Trujillo
+7466	Deadly Apples	/wiki/Deadly_Apples
+7467	Mike Bordin	/wiki/Mike_Bordin
+7468	Christian Olde Wolbers	/wiki/Christian_Olde_Wolbers
+7469	Morgan Rose	/wiki/Morgan_Rose
+7470	Rob Patterson	/wiki/Rob_Patterson
+7471	Michael Jochum	/wiki/Michael_Jochum
+7472	Kalen Chase	/wiki/Kalen_Chase
+7473	Shane Gibson (musician)	/wiki/Shane_Gibson_(musician)
+7474	Fear and the Nervous System	/wiki/Fear_and_the_Nervous_System
+7476	Love and Death (band)	/wiki/Love_and_Death_(band)
+7477	Sexart	/wiki/Sexart
+7484	Allan Schwartzberg	/wiki/Allan_Schwartzberg
+7492	Clutch (band)	/wiki/Clutch_(band)
+7493	Karma to Burn	/wiki/Karma_to_Burn
+7509	Fredrik Åkesson	/wiki/Fredrik_%C3%85kesson
+7510	Joakim Svalberg	/wiki/Joakim_Svalberg
+7511	Bloodbath	/wiki/Bloodbath
+7512	Katatonia	/wiki/Katatonia
+7514	David Isberg	/wiki/David_Isberg
+7515	Opeth	/wiki/Anders_Nordin
+7516	Johan De Farfalla	/wiki/Johan_De_Farfalla
+7517	Peter Lindgren (musician)	/wiki/Peter_Lindgren_(musician)
+7518	Dan Swanö	/wiki/Dan_Swan%C3%B6
+7519	Cradle of Filth	/wiki/Cradle_of_Filth
+7520	Martin Lopez	/wiki/Martin_Lopez
+7521	Fredrik Nordström	/wiki/Fredrik_Nordstr%C3%B6m
+7522	Per Wiberg	/wiki/Per_Wiberg
+7523	Nachtmystium	/wiki/Nachtmystium
+7524	Cynic (band)	/wiki/Cynic_(band)
+7525	The Ocean (band)	/wiki/The_Ocean_Collective
+7526	Pain of Salvation	/wiki/Pain_of_Salvation
+7527	Ghost (Swedish band)	/wiki/Ghost_(Swedish_band)
+7528	Anathema (band)	/wiki/Anathema_(band)
+7529	Voivod (band)	/wiki/Voivod_(band)
+7530	Mayan (band)	/wiki/Mayan_(band)
+7531	Mark Jansen	/wiki/Mark_Jansen
+7532	Epica (band)	/wiki/Epica_(band)
+7533	Gorguts	/wiki/Luc_Lemay
+7534	Gorguts	/wiki/Gorguts
+7535	Soen	/wiki/Soen
+7536	Leprous	/wiki/Leprous
+7537	Disillusion (band)	/wiki/Disillusion_(band)
+7538	Caligula's Horse	/wiki/Caligula%27s_Horse
+7539	Klimt 1918	/wiki/Klimt_1918
+7540	Daniel Droste	/wiki/Daniel_Droste
+7541	Ahab (band)	/wiki/Ahab_(band)
+7542	Becoming the Archetype	/wiki/Becoming_the_Archetype
+7543	Nucleus Torn	/wiki/Nucleus_Torn
+7544	Kauan	/wiki/Kauan
+7545	Wastefall	/wiki/Wastefall
+7546	The Contortionist	/wiki/The_Contortionist
+7547	Thomas MacLean	/wiki/Thomas_MacLean
+7548	To-Mera	/wiki/To-Mera
+7549	The Man-Eating Tree	/wiki/The_Man-Eating_Tree
+7550	District Unknown	/wiki/District_Unknown
+7551	Nahemah (band)	/wiki/Nahemah_(band)
+7553	Schizoid Lloyd	/wiki/Schizoid_Lloyd
+7554	Catuvolcus (band)	/wiki/Catuvolcus_(band)
+7555	Bilocate	/wiki/Bilocate
+7556	Simone Simons	/wiki/Simone_Simons
+7557	Oliver Palotai	/wiki/Oliver_Palotai
+7558	Kamelot	/wiki/Kamelot
+7559	Jim Matheos	/wiki/Jim_Matheos
+7560	Fates Warning	/wiki/Fates_Warning
+7631	Luis Dubuc	/wiki/The_Secret_Handshake
+7649	Stick to Your Guns (band)	/wiki/Stick_To_Your_Guns
+7655	Omen (band)	/wiki/Omen_(band)
+7656	Heir Apparent (band)	/wiki/Heir_Apparent_(band)
+7684	Stephen Perkins	/wiki/Stephen_Perkins
+7695	Greg Ginn	/wiki/Greg_Ginn
+7721	Brides of Destruction	/wiki/Brides_of_Destruction
+7722	Methods of Mayhem	/wiki/Methods_of_Mayhem
+7723	John Corabi	/wiki/John_Corabi
+7724	Samantha Maloney	/wiki/Samantha_Maloney
+7725	Greg Leon	/wiki/Greg_Leon
+7726	Razzle (musician)	/wiki/Razzle_(musician)
+7727	Kik Tracee	/wiki/Kik_Tracee
+7729	Angora (band)	/wiki/Angora_(band)
+7731	58 (band)	/wiki/58_(band)
+7732	James Michael	/wiki/James_Michael
+7733	Chester Bennington	/wiki/Chester_Bennington
+7734	Slaughter (band)	/wiki/Slaughter_(band)
+7735	The Last Vegas	/wiki/The_Last_Vegas
+7737	Steel Panther	/wiki/Steel_Panther
+7780	Iron Maiden	/wiki/Iron_Maiden_(band)
+7781	Lauren Harris	/wiki/Lauren_Harris
+7782	Daniel Band	/wiki/Daniel_Band
+7783	Jerusalem (Swedish band)	/wiki/Jerusalem_(Swedish_band)
+7784	Resurrection Band	/wiki/Resurrection_Band
+7791	Resurrection Band	/wiki/Wendy_Kaiser
+7797	Dave Dufort	/wiki/Dave_Dufort
+7798	Bill Steer	/wiki/Bill_Steer
+7799	Grand Prix (band)	/wiki/Grand_Prix_(band)
+7800	Lȧȧz Rockit	/wiki/L%C8%A7%C8%A7z_Rockit
+7801	Orange Goblin	/wiki/Orange_Goblin
+7802	Thomas Gabriel Fischer	/wiki/Thomas_Gabriel_Fischer
+7803	Six Feet Under (band)	/wiki/Six_Feet_Under_(band)
+7804	Onslaught (band)	/wiki/Onslaught_(band)
+7805	Skull Fist	/wiki/Skull_Fist
+7806	S.A.Slayer	/wiki/S.A.Slayer
+7833	Scum of the Earth (band)	/wiki/Scum_of_the_Earth_(band)
+7834	Spider One	/wiki/Spider_One
+7835	Spider One	/wiki/Michael_David_Cummings
+7836	John Tempesta	/wiki/John_Tempesta
+7839	Mike Riggs	/wiki/Mike_Riggs
+7840	Zeuss	/wiki/Zeuss
+7841	John 5 (guitarist)	/wiki/John_Lowery
+7842	Piggy D.	/wiki/Piggy_D.
+7843	Rob Nicholson (musician)	/wiki/Rob_Nicholson_(musician)
+7844	Tommy Clufetos	/wiki/Tommy_Clufetos
+7845	Tom Five	/wiki/Tom_Five
+7846	Jay Yuenger	/wiki/Jay_Yuenger
+7876	Corey Beaulieu	/wiki/Corey_Beaulieu
+7877	Paolo Gregoletto	/wiki/Paolo_Gregoletto
+7878	Alex Bent	/wiki/Alex_Bent
+7879	Travis Smith (musician)	/wiki/Travis_Smith_(musician)
+7880	Nick Augusto	/wiki/Nick_Augusto
+7881	Mat Madiro	/wiki/Mat_Madiro
+7882	Paul Wandtke	/wiki/Paul_Wandtke
+7883	Mindscar	/wiki/Mindscar
+7884	Jason Suecof	/wiki/Jason_Suecof
+7885	Mendeed	/wiki/Mendeed
+7886	Darkest Hour (band)	/wiki/Darkest_Hour_(band)
+7887	Dirge Within	/wiki/Dirge_Within
+7888	Black Tide	/wiki/Black_Tide
+7889	Veil of Maya	/wiki/Veil_of_Maya
+7890	Five Finger Death Punch	/wiki/Trespass_America_Festival
+7891	Battlecross	/wiki/Battlecross
+7892	Upon a Burning Body	/wiki/Upon_A_Burning_Body
+7893	David Draiman	/wiki/David_Draiman
+7894	Device (metal band)	/wiki/Device_(heavy_metal_band)
+7895	After the Burial	/wiki/After_the_Burial
+7896	Sylosis	/wiki/Sylosis
+7897	While She Sleeps	/wiki/While_She_Sleeps
+7898	Light the Torch	/wiki/Light_the_Torch
+7899	Avatar (band)	/wiki/Avatar_(band)
+7900	Howard Jones (American musician)	/wiki/Howard_Jones_(American_musician)
+7901	Martyr (band)	/wiki/Martyr_(band)
+7902	Cryptopsy	/wiki/Cryptopsy
+7903	Dark Tranquillity	/wiki/Dark_Tranquillity
+7904	Mercenary (band)	/wiki/Mercenary_(band)
+7905	Manowar	/wiki/Manowar_(band)
+7906	Krisiun	/wiki/Krisiun
+7907	Dark Funeral	/wiki/Dark_Funeral
+7908	Anorexia Nervosa (band)	/wiki/Anorexia_Nervosa_(band)
+7909	Poison the Well (band)	/wiki/Poison_the_Well_(band)
+7910	Hatebreed	/wiki/Hatebreed
+7932	Samhain (band)	/wiki/London_May
+7952	Davey Pattison	/wiki/Davey_Pattison
+7959	Possessed (band)	/wiki/Possessed_(band)
+7960	Aftermath (American band)	/wiki/Aftermath_(American_band)
+7961	Blind Illusion	/wiki/Marc_Biedermann
+7962	John Marshall (guitarist)	/wiki/John_Marshall_(guitarist)
+7963	Evan McCaskey	/wiki/Evan_McCaskey
+7964	Dirty Rotten Imbeciles	/wiki/D.R.I._(band)
+7971	Carly Smithson	/wiki/Carly_Smithson
+7976	Dean Bernardini	/wiki/Dean_Bernardini
+7979	Chevelle (band)	/wiki/Live_from_the_Norva
+7980	Taproot (band)	/wiki/Taproot_(band)
+7981	Strata (band)	/wiki/Strata_(band)
+7982	The Butterfly Effect (band)	/wiki/The_Butterfly_Effect_(band)
+7984	Chevelle (band)	/wiki/Any_Last_Words
+7985	Chevelle (band)	/wiki/Pete_Loeffler
+8033	Brian Wheat	/wiki/Brian_Wheat
+8034	Jeff Keith	/wiki/Jeff_Keith
+8035	Troy Luccketta	/wiki/Troy_Luccketta
+8036	Dave Rude	/wiki/Dave_Rude
+8037	Eric Martin (musician)	/wiki/Eric_Martin_(musician)
+8073	Jack Endino	/wiki/Jack_Endino
+8089	Sabina Classen	/wiki/Sabina_Classen
+8090	Holy Moses	/wiki/Thomas_Neitsch
+8091	Agent Steel	/wiki/Agent_Steel
+8092	Angel Dust (band)	/wiki/Angel_Dust_(band)
+8093	Rage (German band)	/wiki/Rage_(German_band)
+8095	Stormtroopers of Death	/wiki/Stormtroopers_of_Death
+8096	Holy Moses	/wiki/Michael_Hankel
+8097	Dan Lilker	/wiki/Dan_Lilker
+8098	Thilo Hermann	/wiki/Thilo_Hermann
+8117	Melvins	/wiki/The_Melvins
+8118	The Big F	/wiki/The_Big_F
+8119	Tad (band)	/wiki/Tad_(band)
+8120	Tim Commerford	/wiki/Tim_Commerford
+8121	Brad Wilk	/wiki/Brad_Wilk
+8124	The Dillinger Escape Plan	/wiki/The_Dillinger_Escape_Plan
+8193	SSD (band)	/wiki/SSD_(band)
+8215	Buckethead	/wiki/Buckethead
+8222	Praxis (band)	/wiki/Praxis_(band)
+8244	Gary Holt (musician)	/wiki/Gary_Holt_(musician)
+8245	Paul Bostaph	/wiki/Paul_Bostaph
+8246	Destruction (band)	/wiki/Destruction_(band)
+8247	Nasty Savage	/wiki/Nasty_Savage
+8248	Malice (American band)	/wiki/Malice_(metal_band)
+8249	Whiplash (band)	/wiki/Tony_Scaglione
+8250	Whiplash (band)	/wiki/Whiplash_(band)
+8251	Grip Inc.	/wiki/Grip_Inc.
+8252	Voodoocult	/wiki/Voodoocult
+8253	Waldemar Sorychta	/wiki/Waldemar_Sorychta
+8255	Vision of Disorder	/wiki/Vision_of_Disorder
+8256	Amorphis	/wiki/Amorphis
+8257	Moonspell	/wiki/Moonspell
+8258	Necrodeath	/wiki/Necrodeath
+8259	Bleeding Through	/wiki/Bleeding_Through
+8260	Pat O'Brien (guitarist)	/wiki/Pat_O%27Brien_(guitarist)
+8261	Kvelertak	/wiki/Kvelertak
+8262	Jamey Jasta	/wiki/Jamey_Jasta
+8263	Vio-lence	/wiki/Vio-lence
+8264	Phil Demmel	/wiki/Phil_Demmel
+8265	Steve Souza	/wiki/Steve_Souza
+8266	Massacre (metal band)	/wiki/Massacre_(metal_band)
+8267	Johan Reinholdz	/wiki/Johan_Reinholdz
+8268	Andromeda (Swedish band)	/wiki/Andromeda_(Swedish_band)
+8269	August Burns Red	/wiki/August_Burns_Red
+8270	Miss May I	/wiki/Miss_May_I
+8271	Attila (metalcore band)	/wiki/Attila_(metalcore_band)
+8272	Evile	/wiki/Evile
+8273	Steve Asheim	/wiki/Steve_Asheim
+8286	Martin Birch	/wiki/Martin_Birch
+8289	Brann Dailor	/wiki/Brann_Dailor
+8290	Brent Hinds	/wiki/Brent_Hinds
+8291	Troy Sanders	/wiki/Troy_Sanders
+8292	Bill Kelliher	/wiki/Bill_Kelliher
+8293	Lethargy (band)	/wiki/Lethargy_(band)
+8294	Killer Be Killed	/wiki/Killer_Be_Killed
+8295	Giraffe Tongue Orchestra	/wiki/Giraffe_Tongue_Orchestra
+8297	Neil Fallon	/wiki/Neil_Fallon
+8298	Cedric Bixler-Zavala	/wiki/Cedric_Bixler-Zavala
+8300	Planes Mistaken for Stars	/wiki/Planes_Mistaken_for_Stars
+8301	These Arms Are Snakes	/wiki/These_Arms_Are_Snakes
+8302	Shavo Odadjian	/wiki/Shavo_Odadjian
+8303	Scott Kelly (musician)	/wiki/Scott_Kelly_(musician)
+8304	Dethklok	/wiki/Dethklok
+8305	Red Fang	/wiki/Red_Fang
+8306	Yakuza (band)	/wiki/Yakuza_(band)
+8308	Waysted	/wiki/Waysted
+8309	Spread Eagle (band)	/wiki/Spread_Eagle_(band)
+8310	Phil Mogg	/wiki/Phil_Mogg
+8311	Neil Carter (musician)	/wiki/Neil_Carter_(musician)
+8312	Rob De Luca	/wiki/Rob_De_Luca
+8314	Paul Chapman (musician)	/wiki/Paul_Chapman_(musician)
+8315	Danny Peyronel	/wiki/Danny_Peyronel
+8317	John Sloman	/wiki/John_Sloman
+8318	Tommy McClendon	/wiki/Tommy_McClendon
+8319	Marc Ferrari	/wiki/Marc_Ferrari
+8321	Rob De Luca	/wiki/Of_Earth
+8322	Barry Sparks	/wiki/Barry_Sparks
+8323	McAuley Schenker Group	/wiki/McAuley_Schenker_Group
+8324	Monster Magnet	/wiki/Monster_Magnet
+8325	Bigelf	/wiki/Bigelf
+8345	Jerry Edmonton	/wiki/Jerry_Edmonton
+8346	Michael Monarch	/wiki/Michael_Monarch
+8347	Rushton Moreve	/wiki/Rushton_Moreve
+8348	Nick St. Nicholas	/wiki/Nick_St._Nicholas
+8350	Kent Henry	/wiki/Kent_Henry
+8354	Holland (band)	/wiki/Holland_(band)
+8356	Gorgoroth	/wiki/Gorgoroth
+8357	Marduk (band)	/wiki/Marduk_(band)
+8359	Abbath	/wiki/Olve_Eikemo
+8360	Ole Moe	/wiki/Ole_Moe
+8361	Faust (musician)	/wiki/Faust_(musician)
+8362	Samoth	/wiki/Samoth
+8363	Zyklon	/wiki/Zyklon
+8364	Gaahl	/wiki/Gaahl
+8365	Ivar Bjørnson	/wiki/Ivar_Bj%C3%B8rnson
+8366	Watain	/wiki/Watain
+8381	Miles Tackett	/wiki/Miles_Tackett
+8389	Poison (American band)	/wiki/Matt_Smith_(musician)
+8397	Giuffria	/wiki/Giuffria
+8399	Dead by Sunrise	/wiki/Dead_by_Sunrise
+8400	Warrior (band)	/wiki/Warrior_(band)
+8401	Love/Hate (band)	/wiki/Love/Hate_(band)
+8402	Rough Cutt	/wiki/Chris_Hager
+8403	Jake E. Lee	/wiki/Jake_E._Lee
+8404	Amir Derakh	/wiki/Amir_Derakh
+8405	Matt Thorr	/wiki/Matt_Thorr
+8406	Claude Schnell	/wiki/Claude_Schnell
+8408	Joey Cristofanilli	/wiki/Joey_Cristofanilli
+8409	Matt Thorr	/wiki/Matt_Thorne_(bassist)
+8410	Ronnie James Dio	/wiki/Wendy_Dio
+8411	Kevin DuBrow	/wiki/Kevin_DuBrow
+8412	Jeff Warner (guitarist)	/wiki/Jeff_Warner_(guitarist)
+8413	James Christian	/wiki/Eyes_(band)
+8414	James Christian	/wiki/James_Christian
+8415	Carlos Cavazo	/wiki/Carlos_Cavazo
+8416	Chuck Wright	/wiki/Chuck_Wright
+8418	Phil Lewis (musician)	/wiki/Phil_Lewis_(musician)
+8436	Neil Buchanan	/wiki/Neil_Buchanan
+8437	Exit State	/wiki/Exit_State
+8438	Tigertailz	/wiki/Tigertailz
+8459	Midnight (musician)	/wiki/Midnight_(musician)
+8460	Jon Drenning	/wiki/Jon_Drenning
+8461	Jeff Lords	/wiki/Jeff_Lords
+8462	Ben Jackson (musician)	/wiki/Ben_Jackson_(musician)
+8464	Watchtower (band)	/wiki/Watchtower_(band)
+8465	Cage (band)	/wiki/Cage_(band)
+8466	Triosphere	/wiki/Triosphere
+8467	Crimson Glory	/wiki/Wade_Black
+8468	Evergrey	/wiki/Evergrey
+8469	Pyramaze	/wiki/Pyramaze
+8470	Pagan's Mind	/wiki/Pagan%27s_Mind
+8471	Zero Hour (band)	/wiki/Zero_Hour_(band)
+8472	Brainstorm (German band)	/wiki/Brainstorm_(German_band)
+8473	Mindflow	/wiki/Mindflow
+8474	Circus Maximus (Norwegian band)	/wiki/Circus_Maximus_(Norwegian_band)
+8475	Royal Hunt	/wiki/Royal_Hunt
+8476	Suspyre	/wiki/Suspyre
+8477	Beyond Twilight	/wiki/Beyond_Twilight
+8478	Seven Witches	/wiki/Seven_Witches
+8479	Leash Law	/wiki/Leash_Law
+8480	Luca Turilli	/wiki/Luca_Turilli_(musician)
+8481	Atheist (band)	/wiki/Atheist_(band)
+8486	Heart (band)	/wiki/The_Lovemongers
+8491	Heart (band)	/wiki/Steve_Fossen
+8492	Heart (band)	/wiki/Michael_DeRosier
+8494	Zack de la Rocha	/wiki/Zack_de_la_Rocha
+8496	Prophets of Rage	/wiki/Prophets_of_Rage
+8497	Chris Cornell	/wiki/Center_for_Disease_Control_Boys
+8502	Sean Kinney	/wiki/Sean_Kinney
+8504	Peter Cornell (singer)	/wiki/Peter_Cornell_(singer)
+8505	Pierce the Veil	/wiki/Pierce_The_Veil
+8507	William DuVall	/wiki/William_DuVall
+8509	Vernon Reid	/wiki/Vernon_Reid
+8510	Axis of Justice	/wiki/Axis_of_Justice
+8516	Gloryhammer	/wiki/Gloryhammer
+8517	Waylander (band)	/wiki/Waylander_(band)
+8518	Wisdom (band)	/wiki/Wisdom_(band)
+8519	Leander Kills	/wiki/Leander_Kills
+8520	Týr (band)	/wiki/T%C3%BDr_(band)
+8521	Suidakra	/wiki/Suidakra
+8522	Heidevolk	/wiki/Heidevolk
+8523	Adorned Brood	/wiki/Adorned_Brood
+8524	Finntroll	/wiki/Finntroll
+8525	Dornenreich	/wiki/Dornenreich
+8526	Arkona (band)	/wiki/Arkona_(band)
+8527	Turisas	/wiki/Turisas
+8528	Wintersun	/wiki/Wintersun
+8529	Trollfest	/wiki/Trollfest
+8530	Claim the Throne	/wiki/Claim_the_Throne
+8531	The Defiled	/wiki/The_Defiled
+8532	Insomnium	/wiki/Insomnium
+8533	Swashbuckle (band)	/wiki/Swashbuckle_(band)
+8534	The Dread Crew of Oddwood	/wiki/The_Dread_Crew_of_Oddwood
+8535	Nekrogoblikon	/wiki/Nekrogoblikon
+8536	Æther Realm	/wiki/%C3%86ther_Realm
+8544	Victory Tischler-Blue	/wiki/Victory_Tischler-Blue
+8545	Victory Tischler-Blue	/wiki/Vicki_Blue
+8549	Vinny Appice	/wiki/Vinny_Appice
+8550	Shameless (band)	/wiki/Shameless_(band)
+8551	Chris Holmes (musician)	/wiki/Chris_Holmes_(musician)
+8552	Nitro (band)	/wiki/Nitro_(band)
+8553	Jim Gillette	/wiki/Jim_Gillette
+8560	Toryn Green	/wiki/Toryn_Green
+8561	Tommy Stewart	/wiki/Tommy_Stewart
+8562	Brad Stewart	/wiki/Brad_Stewart
+8563	World Fire Brigade	/wiki/World_Fire_Brigade
+8566	Saliva (band)	/wiki/Saliva_(band)
+8570	Sean Beavan	/wiki/Sean_Beavan
+8583	The Innocent (band)	/wiki/The_Innocent_(band)
+8620	King Gizzard & the Lizard Wizard	/wiki/King_Gizzard_%26_the_Lizard_Wizard
+8636	Wayne Static	/wiki/Wayne_Static
+8639	Paz Lenchantin	/wiki/Paz_Lenchantin
+8644	Jeff Schroeder	/wiki/Jeff_Schroeder
+8653	Blindside (band)	/wiki/Blindside_(band)
+8654	Enuff Z'Nuff	/wiki/Enuff_Z%27Nuff
+8660	Mark Stoermer	/wiki/Mark_Stoermer
+8664	Kevin Valentine	/wiki/Kevin_Valentine
+8720	Def Leppard	/wiki/Mirror_Ball_Tour
+8722	Last in Line	/wiki/Last_in_Line
+8723	Jimmy Bain	/wiki/Jimmy_Bain
+8742	Acid Drinkers	/wiki/Acid_Drinkers
+8744	Roman Kostrzewski	/wiki/Roman_Kostrzewski
+8745	Kat (band)	/wiki/Oddech_wymar%C5%82ych_%C5%9Bwiat%C3%B3w
+8746	Kat (band)	/wiki/Ballady
+8747	Kat (band)	/wiki/R%C3%B3%C5%BCe_mi%C5%82o%C5%9Bci_najch%C4%99tniej_przyjmuj%C4%85_si%C4%99_na_grobach
+8748	Kat (band)	/wiki/Szydercze_zwierciad%C5%82o
+8749	Kat (band)	/wiki/Mind_Cannibals
+8774	Madam X (band)	/wiki/Madam_X_(band)
+8775	Phantom Blue	/wiki/Phantom_Blue
+8776	Contraband (band)	/wiki/Contraband_(band)
+8777	Femme Fatale (band)	/wiki/Femme_Fatale_(band)
+8778	Roxy Petrucci	/wiki/Roxy_Petrucci
+8779	Share Ross	/wiki/Share_Ross
+8780	Britt Lightning	/wiki/Britt_Lightning
+8781	Janet Gardner	/wiki/Janet_Gardner
+8782	Gina Stile	/wiki/Gina_Stile
+8784	The Dogs D'Amour	/wiki/The_Dogs_D%27Amour
+8785	Ace Von Johnson	/wiki/Ace_Von_Johnson
+8794	Ken Hensley	/wiki/Ken_Hensley
+8795	Alessandro Del Vecchio	/wiki/Alessandro_Del_Vecchio
+8796	Gotthard (band)	/wiki/Gotthard_(band)
+8815	Rata Blanca	/wiki/Rata_Blanca
+8816	Hermética	/wiki/Herm%C3%A9tica
+8817	Horcas	/wiki/Horcas
+8818	Almafuerte (band)	/wiki/Almafuerte_(band)
+8819	Riff (Argentine band)	/wiki/Riff_(Argentine_band)
+8820	Alberto Zamarbide	/wiki/Alberto_Zamarbide
+8821	Osvaldo Civile	/wiki/Osvaldo_Civile
+8822	Walter Giardino	/wiki/Walter_Giardino
+8823	V8 (Argentine band)	/wiki/No_Se_Rindan
+8824	V8 (Argentine band)	/wiki/Un_Paso_Mas_En_La_Batalla
+8825	V8 (Argentine band)	/wiki/El_Fin_De_Los_Inicuos
+8872	Vader (band)	/wiki/Vader_(band)
+8877	Russian Circles	/wiki/Russian_Circles
+8881	Nick Oliveri	/wiki/Nick_Oliveri
+8919	Circle II Circle	/wiki/Circle_II_Circle
+8921	Jon Oliva	/wiki/Jon_Oliva
+8922	Johnny Lee Middleton	/wiki/Johnny_Lee_Middleton
+8923	Chris Caffery	/wiki/Chris_Caffery
+8924	Zachary Stevens	/wiki/Zachary_Stevens
+8925	Jeff Plate	/wiki/Jeff_Plate
+8927	Jack Frost (musician)	/wiki/Jack_Frost_(musician)
+8928	Jeff Waters	/wiki/Jeff_Waters
+8929	Mark Wood (violinist)	/wiki/Mark_Wood_(violinist)
+8930	Jack Starr's Burning Starr	/wiki/Jack_Starr%27s_Burning_Starr
+8931	Riot V	/wiki/Riot_V
+8932	Powerwolf	/wiki/Powerwolf
+8933	Trans-Siberian Orchestra	/wiki/Jennifer_Cella
+8934	Trans-Siberian Orchestra	/wiki/Kayla_Reeves
+8936	Russell Allen	/wiki/Russell_Allen
+8937	Dino Jelusick	/wiki/Dino_Jelusick
+8938	Chloe (American singer)	/wiki/Chloe_(American_singer)
+8941	Dickie Peterson	/wiki/Dickie_Peterson
+8942	Paul Whaley	/wiki/Paul_Whaley
+8943	Leigh Stephens	/wiki/Leigh_Stephens
+8944	Randy Holden	/wiki/Randy_Holden
+8945	Ruben De Fuentes	/wiki/Ruben_De_Fuentes
+8946	Mucky Pup	/wiki/Mucky_Pup
+8948	Internal Void	/wiki/Internal_Void
+8949	Thumlock	/wiki/Thumlock
+8950	Joe Hasselvander	/wiki/Joe_Hasselvander
+8953	Raven (British band)	/wiki/Raven_(British_band)
+8959	Damageplan	/wiki/Damageplan
+8960	Gasoline (band)	/wiki/Gasoline_(band)
+8961	Kill Devil Hill (band)	/wiki/Kill_Devil_Hill_(band)
+8962	Necrophagia	/wiki/Necrophagia
+8963	Phil Anselmo	/wiki/Southern_Isolation
+8964	Superjoint	/wiki/Superjoint_Ritual
+8965	Viking Crown	/wiki/Viking_Crown
+8966	Jerry Abbott	/wiki/Jerry_Abbott
+8998	I Mother Earth	/wiki/I_Mother_Earth
+8999	John Christ	/wiki/John_Christ
+9000	Wes Scantlin	/wiki/Wes_Scantlin
+9011	Jaime St. James	/wiki/Jaime_St._James
+9035	Mekong Delta (band)	/wiki/Mekong_Delta_(band)
+9036	Sodom (band)	/wiki/Sodom_(band)
+9050	Eric Carlson (musician)	/wiki/Eric_Carlson_(musician)
+9051	Steve Broy	/wiki/Steve_Broy
+9052	Eldon Hoke	/wiki/Eldon_Hoke
+9053	Revolting Cocks	/wiki/Revolting_Cocks
+9054	Scott Weinrich	/wiki/Scott_Weinrich
+9055	Mentors (band)	/wiki/The_Mentors
+9057	Neil Kernon	/wiki/Neil_Kernon
+9058	Skrew	/wiki/Skrew
+9075	Jimmie's Chicken Shack	/wiki/Jimmie%27s_Chicken_Shack
+9076	Mike Mushok	/wiki/Mike_Mushok
+9097	Storm Large	/wiki/Storm_Large
+9122	Fiona (singer)	/wiki/Fiona_(singer)
+9132	Troy Gregory	/wiki/Troy_Gregory
+9133	Jason Bittner	/wiki/Jason_Bittner
+9134	Autograph (American band)	/wiki/Autograph_(American_band)
+9135	Excel (band)	/wiki/Excel_(band)
+9136	Crumbsuckers	/wiki/Crumbsuckers
+9137	Acid Reign	/wiki/Acid_Reign
+9138	Body Count (band)	/wiki/Body_Count_(band)
+9139	Damn the Machine	/wiki/Damn_the_Machine
+9140	James Rivera	/wiki/James_Rivera
+9141	Legion of the Damned (band)	/wiki/Legion_of_the_Damned_(band)
+9142	Enforcer (band)	/wiki/Enforcer_(band)
+9143	Helstar	/wiki/Helstar
+9144	Hatchet (band)	/wiki/Hatchet_(band)
+9145	Dew-Scented	/wiki/Dew-Scented
+9146	Izegrim	/wiki/Izegrim
+9147	Fifth Angel	/wiki/Fifth_Angel
+9149	Chastain (band)	/wiki/Chastain_(band)
+9150	Impellitteri	/wiki/Impellitteri
+9155	Infectious Grooves	/wiki/Infectious_Grooves
+9156	No Mercy (metal band)	/wiki/No_Mercy_(metal_band)
+9157	Uncle Slam	/wiki/Uncle_Slam
+9159	Mike Muir	/wiki/Mike_Muir
+9160	Dean Pleasants	/wiki/Dean_Pleasants
+9161	Mike Clark (guitarist)	/wiki/Mike_Clark_(guitarist)
+9162	Grant Estes	/wiki/Grant_Estes
+9163	Bob Heathcote	/wiki/Bob_Heathcote
+9165	Jon Nelson (guitarist)	/wiki/Jon_Nelson_(guitarist)
+9168	Anthony Gallo	/wiki/Anthony_Gallo
+9169	Uncle Slam	/wiki/The_Brood_(band)
+9170	24-7 Spyz	/wiki/24-7_Spyz
+9171	Leeway (band)	/wiki/Leeway_(band)
+9172	Adam Siegel	/wiki/Adam_Siegel
+9173	Mike Muir	/wiki/Cyco_Miko
+9175	Bad4Good	/wiki/Bad4Good
+9177	Death by Stereo	/wiki/Death_by_Stereo
+9178	Beartooth (band)	/wiki/Beartooth_(band)
+9179	Crowbar (American band)	/wiki/Crowbar_(American_band)
+9183	Dub War	/wiki/Dub_War
+9205	Tommy Victor	/wiki/Tommy_Victor
+9206	Monte Pittman	/wiki/Monte_Pittman
+9210	Justin Hawkins	/wiki/Justin_Hawkins
+9221	Bonham (band)	/wiki/Bonham_(band)
+9223	Lee Kerslake	/wiki/Lee_Kerslake
+9226	Nicky Moore	/wiki/Nicky_Moore
+9228	Uli Jon Roth	/wiki/Sky_Guitar
+9229	Michael Bormann	/wiki/Michael_Bormann
+9230	Zeno Roth	/wiki/Zeno_Roth
+9238	Mirror of Deception	/wiki/Mirror_of_Deception
+9242	Salem (Israeli band)	/wiki/Salem_(Israel_band)
+9244	Steve Grimmett	/wiki/Steve_Grimmett
+9269	Assjack	/wiki/Assjack
+9271	Duane Denison	/wiki/Duane_Denison
+9272	Superjoint	/wiki/Superjoint
+9273	Mike IX Williams	/wiki/Mike_Williams_(singer)
+9274	Jimmy Bower	/wiki/Jimmy_Bower
+9275	Superjoint	/wiki/Kevin_Bond_(musician)
+9279	Adam Gontier	/wiki/Adam_Gontier
+9280	Eye Empire	/wiki/Eye_Empire
+9281	Corey Lowery	/wiki/Corey_Lowery
+9293	Jens Becker	/wiki/Jens_Becker
+9294	Uwe Lulis	/wiki/Uwe_Lulis
+9295	Manni Schmidt	/wiki/Manni_Schmidt
+9296	Rebellion (band)	/wiki/Rebellion_(band)
+9297	Astral Doors	/wiki/Astral_Doors
+9298	Therion (band)	/wiki/Therion_(band)
+9300	Tracy G	/wiki/Tracy_G
+9301	Rowan Robertson	/wiki/Rowan_Robertson
+9302	Scott Warren	/wiki/Scott_Warren
+9303	Jeff Pilson	/wiki/Jeff_Pilson
+9304	Lynch Mob (band)	/wiki/Lynch_Mob_(band)
+9305	Oni Logan	/wiki/Oni_Logan
+9307	Phil Soussan	/wiki/Phil_Soussan
+9308	Erik Norlander	/wiki/Erik_Norlander
+9309	Opprobrium (band)	/wiki/Opprobrium_(band)
+9310	Brandon Boyd	/wiki/Brandon_Boyd
+9311	Mike Einziger	/wiki/Mike_Einziger
+9313	Chris Kilmore	/wiki/Chris_Kilmore
+9315	Alex Katunich	/wiki/Alex_Katunich
+9316	Gavin Koppel	/wiki/Gavin_Koppell
+9317	Ultraspank	/wiki/Ultraspank
+9319	Hoobastank	/wiki/Hoobastank
+9331	High Tide (band)	/wiki/The_Reason_of_Success
+9388	Dan Hawkins (musician)	/wiki/Dan_Hawkins_(musician)
+9389	Campino (singer)	/wiki/Campino_(singer)
+9399	The Rasmus	/wiki/Hay_and_Stone
+9401	Anette Olzon	/wiki/Anette_Olzon
+9402	Apocalyptica	/wiki/Apocalyptica
+9403	Lauri Ylönen	/wiki/Lauri_Yl%C3%B6nen
+9404	The Rasmus	/wiki/Aki_Hakala
+9405	The Rasmus	/wiki/Teja_G._Records
+9406	Johnny Solinger	/wiki/Johnny_Solinger
+9407	Scotti Hill	/wiki/Scotti_Hill
+9408	Dave Sabo	/wiki/Dave_Sabo
+9409	ZP Theart	/wiki/ZP_Theart
+9410	Matt Fallon	/wiki/Matt_Fallon
+9411	Rob Affuso	/wiki/Rob_Affuso
+9412	Phil Varone	/wiki/Phil_Varone
+9413	Tony Harnell	/wiki/Tony_Harnell
+9414	TNT (Norwegian band)	/wiki/TNT_(Norwegian_band)
+9415	Vain (band)	/wiki/Vain_(band)
+9461	Joe Hahn	/wiki/Joe_Hahn
+9462	Dave Farrell	/wiki/Dave_Farrell
+9463	Brad Delson	/wiki/Brad_Delson
+9464	Rob Bourdon	/wiki/Rob_Bourdon
+9465	Adema	/wiki/Adema
+9467	Pia (band)	/wiki/Pia_(band)
+9471	Page Hamilton	/wiki/Page_Hamilton
+9472	Daron Malakian	/wiki/Daron_Malakian
+9473	Issues (band)	/wiki/Issues_(band)
+9474	The Devil Wears Prada (band)	/wiki/The_Devil_Wears_Prada_(band)
+9477	Of Mice & Men (band)	/wiki/Of_Mice_%26_Men_(band)
+9478	From Ashes to New	/wiki/From_Ashes_to_New
+9479	Coldrain	/wiki/Coldrain
+9499	Alter Bridge	/wiki/Fan_EP
+9502	John Connolly (musician)	/wiki/John_Connolly_(musician)
+9503	Vinnie Hornsby	/wiki/Vinnie_Hornsby
+9504	Submersed	/wiki/Submersed
+9506	The Raven Age	/wiki/The_Raven_Age
+9510	Travis Richter	/wiki/Travis_Richter
+9517	Chris Lent	/wiki/Chris_Lent
+9518	Periphery (band)	/wiki/Periphery_(band)
+9564	Lord Tracy	/wiki/Lord_Tracy
+9565	Stryper	/wiki/Stryper
+9566	Steel Prophet	/wiki/Steel_Prophet
+9567	Samhain (band)	/wiki/Samhain_(band)
+9569	Mind over Four	/wiki/Mind_over_Four
+9571	Apartment 26	/wiki/Apartment_26
+9572	Skrape	/wiki/Skrape
+9573	Todd Strange	/wiki/Todd_Strange
+9574	Patrick Lachman	/wiki/Patrick_Lachman
+9575	Bob Kakaha	/wiki/Bob_Kakaha
+9576	Nothingface (band)	/wiki/Nothingface_(band)
+9577	Exhorder	/wiki/Exhorder
+9580	Juanes	/wiki/Juanes
+9583	Alice N' Chains	/wiki/Alice_N%27_Chains
+9584	Sleze	/wiki/Sleze
+9585	Spys4Darwin	/wiki/Spys4Darwin
+9586	Mike Starr (musician)	/wiki/Mike_Starr_(musician)
+9588	Nick Pollock	/wiki/Nick_Pollock
+9592	Chris DeGarmo	/wiki/Chris_DeGarmo
+9594	Steve Gibb	/wiki/Steve_Gibb
+9595	Ratt	/wiki/Ratt_(band)
+9597	Patrick Lachman	/wiki/Pat_Lachman
+9598	Comes with the Fall	/wiki/Comes_with_the_Fall
+9599	Alice in Chains	/wiki/Finish_What_We_Started_Tour
+9602	Sully Erna	/wiki/Sully_Erna
+9603	A Pale Horse Named Death	/wiki/A_Pale_Horse_Named_Death
+9605	Smile Empty Soul	/wiki/Smile_Empty_Soul
+9606	Secrets of the Moon	/wiki/Secrets_of_the_Moon
+9607	36 Crazyfists	/wiki/36_Crazyfists
+9608	Cane Hill (band)	/wiki/Cane_Hill_(band)
+9609	Ektomorf	/wiki/Ektomorf
+9610	Grave (band)	/wiki/Grave_(band)
+9611	Thou (American band)	/wiki/Thou_(American_band)
+9612	Alice in Chains	/wiki/Alice_in_Chains:_The_Untold_Story
+9615	Mark McGrath	/wiki/Mark_McGrath
+9646	Christian Lasegue	/wiki/Christian_Lasegue
+9664	Michael Sweet	/wiki/Michael_Sweet
+9681	Fireball Ministry	/wiki/Fireball_Ministry
+9683	Souls of We	/wiki/Souls_of_We
+9684	Josh Rand	/wiki/Josh_Rand
+9685	Christian Martucci	/wiki/Christian_Martucci
+9686	Roy Mayorga	/wiki/Roy_Mayorga
+9687	Sinch (band)	/wiki/Sinch_(band)
+9690	Stone Sour	/wiki/Shawn_Economaki
+9699	Pentagram Chile	/wiki/Pentagram_Chile
+9700	Mezarkabul	/wiki/Mezarkabul
+9702	Place of Skulls (band)	/wiki/Place_of_Skulls_(band)
+9703	Spirit Caravan	/wiki/Spirit_Caravan
+9704	Unorthodox (band)	/wiki/Unorthodox_(band)
+9705	Wretched (doom band)	/wiki/Wretched_(doom_band)
+9706	Valkyrie (American band)	/wiki/Valkyrie_(band)
+9707	The Hidden Hand (band)	/wiki/The_Hidden_Hand_(band)
+9708	Witchcraft (band)	/wiki/Witchcraft_(band)
+9709	Solitude Aeturnus	/wiki/Solitude_Aeturnus
+9710	Krux	/wiki/Krux
+9711	Memento Mori (band)	/wiki/Memento_Mori_(band)
+9712	Leif Edling	/wiki/Leif_Edling
+9713	Thomas Vikström	/wiki/Thomas_Vikstr%C3%B6m
+9714	Michael Amott	/wiki/Michael_Amott
+9715	Robert Lowe (musician)	/wiki/Robert_Lowe_(musician)
+9716	Treat (band)	/wiki/Treat_(band)
+9717	At Vance	/wiki/At_Vance
+9718	Spiritual Beggars	/wiki/Spiritual_Beggars
+9719	Mike Wead	/wiki/Mike_Wead
+9722	Alien Ant Farm	/wiki/Terry_Corso
+9723	Dave Pino	/wiki/Dave_Pino
+9724	Cage9	/wiki/Cage9
+9725	Depswa	/wiki/Gordon_Heckaman
+9726	Powerman 5000	/wiki/True_Force
+9728	Piggy D.	/wiki/Piggy_D
+9729	Nonpoint	/wiki/Nonpoint
+9731	Powerman 5000	/wiki/Sci55ors
+9732	American Head Charge	/wiki/American_Head_Charge
+9733	The Browning	/wiki/The_Browning
+9735	Human Waste Project	/wiki/Human_Waste_Project
+9744	Arjen Anthony Lucassen	/wiki/Arjen_Anthony_Lucassen
+9745	Arjen Anthony Lucassen	/wiki/Ambeon
+9746	The Gentle Storm	/wiki/The_Gentle_Storm
+9747	Guilt Machine	/wiki/Guilt_Machine
+9748	Star One (band)	/wiki/Star_One_(band)
+9749	Stream of Passion	/wiki/Stream_of_Passion
+9750	Vengeance (band)	/wiki/Vengeance_(band)
+9751	Lori Linstruth	/wiki/Lori_Linstruth
+9752	Kazik na Żywo	/wiki/Kazik_Na_%C5%BBywo
+9753	Turbo (Polish band)	/wiki/Pi%C4%85ty_%C5%BCywio%C5%82
+9762	Ethan Luck	/wiki/Ethan_Luck
+9773	USA/Mexico	/wiki/USA/Mexico
+9775	Paul Leary	/wiki/The_History_of_Dogs
+9778	Clash (Thai band)	/wiki/Clash_(Thai_band)
+9873	Mark Reale	/wiki/Mark_Reale
+9874	Guy Speranza	/wiki/Guy_Speranza
+9875	Rhett Forrester	/wiki/Rhett_Forrester
+9876	Bobby Jarzombek	/wiki/Bobby_Jarzombek
+9877	Juggernaut (band)	/wiki/Juggernaut_(band)
+9878	Powermad	/wiki/Powermad
+9879	Bobby Rondinelli	/wiki/Bobby_Rondinelli
+9890	Lionsheart	/wiki/Lionsheart
+9915	Eric Martin (musician)	/wiki/Eric_Martin_(singer)
+9916	Jackyl	/wiki/Jackyl
+9917	Dave Meniketti	/wiki/Dave_Meniketti
+9936	The Hu	/wiki/The_Hu
+9937	Landmine Marathon	/wiki/Landmine_Marathon
+9938	New Years Day (band)	/wiki/New_Years_Day_(band)
+9939	Tom Keifer	/wiki/Tom_Keifer
+9941	The Osmonds	/wiki/The_Osmond_Brothers
+9943	Kyle Gass	/wiki/Kyle_Gass
+9949	Trainwreck (band)	/wiki/Trainwreck_(band)
+9950	John Roth (musician)	/wiki/John_Roth_(musician)
+9951	Rod Morgenstein	/wiki/Rod_Morgenstein
+9968	Mr. Big (American band)	/wiki/Mr._Big_(band)
+9980	Gil Moore	/wiki/Gil_Moore
+9999	Uli Jon Roth	/wiki/Uli_Roth
+10001	Victory (band)	/wiki/Victory_(band)
+10007	The Pandoras	/wiki/The_Pandoras
+10029	Ben Christo	/wiki/Ben_Christo
+10031	Craig Adams (musician)	/wiki/Craig_Adams_(musician)
+10046	Acrimony	/wiki/Acrimony_(band)
+10047	List of Girlschool band members	/wiki/List_of_Girlschool_band_members
+10048	Kelly Johnson (guitarist)	/wiki/Kelly_Johnson_(guitarist)
+10051	Phil Taylor (musician)	/wiki/Phil_%22Philthy_Animal%22_Taylor
+10054	Crucified Barbara	/wiki/Crucified_Barbara
+10055	Drain STH	/wiki/Drain_STH
+10057	The Osmonds	/wiki/Osmond_Brothers
+10073	The Gathering (band)	/wiki/The_Gathering_(band)
+10119	The Exies	/wiki/The_Exies
+10130	Robin McAuley	/wiki/Robin_McAuley
+10133	Cobra (American band)	/wiki/Cobra_(American_band)
+10156	Spymob	/wiki/Spymob
+10166	Tantric (band)	/wiki/Matt_Taul
+10190	Kraljevski Apartman	/wiki/Apartman_69
+10200	Tormé	/wiki/Torm%C3%A9
+10201	Liberators (American band)	/wiki/Liberators_(American_band)
+10202	Guns N' Roses	/wiki/UZI_Suicide
+10207	Ole Beich	/wiki/Ole_Beich
+10208	Hollywood Rose	/wiki/Hollywood_Rose
+10209	Rob Gardner (musician)	/wiki/Rob_Gardner_(musician)
+10217	Electric Love Hogs	/wiki/Electric_Love_Hogs
+10218	Dave Kushner	/wiki/Dave_Kushner
+10219	Burning Witch	/wiki/Burning_Witch
+10220	Burning Witch	/wiki/George_Stuart_Dahlquist
+10222	Slash's Snakepit	/wiki/Slash%27s_Snakepit
+10223	Zilch (band)	/wiki/Zilch_(band)
+10225	Richard Fortus	/wiki/Richard_Fortus
+10227	Melissa Reese	/wiki/Melissa_Reese
+10229	Chris Pitman	/wiki/Chris_Pitman
+10230	Bryan Mantia	/wiki/Bryan_Mantia
+10231	DJ Ashba	/wiki/DJ_Ashba
+10264	Chris Chaney	/wiki/Chris_Chaney
+10268	Rollins Band	/wiki/The_Rollins_Band
+10272	Stabbing Westward	/wiki/Stabbing_Westward
+10273	Mondo Generator	/wiki/Mondo_Generator
+10297	Luca Turilli's Rhapsody	/wiki/Luca_Turilli%27s_Rhapsody
+10298	Luca Turilli (band)	/wiki/Luca_Turilli_(band)
+10299	Luca Turilli's Dreamquest	/wiki/Luca_Turilli%27s_Dreamquest
+10300	Turilli / Lione Rhapsody	/wiki/Turilli_/_Lione_Rhapsody
+10301	Alex Staropoli	/wiki/Alex_Staropoli
+10302	Luca Turilli	/wiki/Luca_Turilli
+10303	Dominique Leurquin	/wiki/Dominique_Leurquin
+10304	Tom Hess (guitarist)	/wiki/Tom_Hess_(guitarist)
+10305	Blind Guardian	/wiki/Oliver_Holzwarth
+10306	Orden Ogan	/wiki/Orden_Ogan
+10348	Tourniquet (band)	/wiki/Tourniquet_(band)
+10349	Warrior Soul	/wiki/Warrior_Soul
+10350	The Skull (band)	/wiki/The_Skull_(band)
+10351	Bruce Franklin (guitarist)	/wiki/Bruce_Franklin_(guitarist)
+10352	Ted Kirkpatrick	/wiki/Ted_Kirkpatrick
+10353	Bill Metoyer	/wiki/Bill_Metoyer
+10354	Solace (band)	/wiki/Solace_(band)
+10355	Godspeed (band)	/wiki/Godspeed_(band)
+10357	Britny Fox	/wiki/Britny_Fox
+10358	Tosin Abasi	/wiki/Tosin_Abasi
+10359	Dope (band)	/wiki/Dope_(band)
+10360	Eric Gales	/wiki/Eric_Gales
+10361	Nick Catanese	/wiki/Nick_Catanese
+10362	Greg D'Angelo	/wiki/Greg_D%27Angelo
+10363	John DeServio	/wiki/John_DeServio
+10364	Johnny Kelly	/wiki/Johnny_Kelly
+10365	Adam Wakeman	/wiki/Adam_Wakeman
+10366	Gus G	/wiki/Gus_G
+10367	Brett Garsed	/wiki/Brett_Garsed
+10369	Planet X (band)	/wiki/Planet_X_(band)
+10371	Sons of Apollo	/wiki/Sons_of_Apollo
+10375	Faster Pussycat	/wiki/Faster_Pussycat
+10380	Oficina G3	/wiki/Oficina_G3
+10402	Even Ormestad	/wiki/Even_Ormestad
+10409	Running Wild (band)	/wiki/X-Wild
+10410	Thilo Hermann	/wiki/Thilo_Herrmann
+10412	Masterplan (band)	/wiki/Masterplan_(band)
+10413	Iron Savior	/wiki/Iron_Savior
+10414	Stefan Schwarzmann	/wiki/Stefan_Schwarzmann
+10415	Paradox (German band)	/wiki/Paradox_(German_band)
+10416	Rage (German band)	/wiki/Avenger_(German_band)
+10417	Tom Angelripper	/wiki/Tom_Angelripper
+10418	Running Wild (band)	/wiki/The_Revivalry_%E2%80%93_A_Tribute_to_Running_Wild
+10435	Dave Grohl	/wiki/Dain_Bramage
+10436	Monstrosity (band)	/wiki/Monstrosity_(band)
+10437	Paths of Possession	/wiki/Paths_of_Possession
+10438	Torture Killer	/wiki/Torture_Killer
+10439	Serpentine Dominion	/wiki/Serpentine_Dominion
+10440	Alex Webster	/wiki/Alex_Webster
+10441	George Fisher (musician)	/wiki/George_Fisher_(musician)
+10442	Rob Barrett	/wiki/Rob_Barrett
+10443	Chris Barnes (musician)	/wiki/Chris_Barnes_(musician)
+10444	Jack Owen	/wiki/Jack_Owen
+10445	Solstice (American band)	/wiki/Solstice_(US_band)
+10446	Adrift (band)	/wiki/Adrift_(band)
+10447	Origin (band)	/wiki/Jeremy_Turner_(guitarist)
+10448	Origin (band)	/wiki/Origin_(metal_band)
+10449	Hate Eternal	/wiki/Hate_Eternal
+10450	Erik Rutan	/wiki/Erik_Rutan
+10451	Cannibal Corpse	/wiki/Worm_Infested
+10452	Cannabis Corpse	/wiki/Cannabis_Corpse
+10454	Steel Panther	/wiki/Metal_Skool
+10475	Whitecross (band)	/wiki/Whitecross_(band)
+10486	Richard Kruspe	/wiki/Richard_Kruspe
+10490	KMFDM	/wiki/KMFDM
+10491	Joachim Witt	/wiki/Joachim_Witt
+10492	Deathstars	/wiki/Deathstars
+10493	Joe Letz	/wiki/Joe_Letz
+10494	Peter Tägtgren	/wiki/Peter_T%C3%A4gtgren
+10495	Lindemann (band)	/wiki/Lindemann_(band)
+10496	Guano Apes	/wiki/Guano_Apes
+10558	Glenn Hughes (musician)	/wiki/Glenn_Hughes_(British_musician)
+10560	Dan Donegan	/wiki/Dan_Donegan
+10561	Mike Wengren	/wiki/Mike_Wengren
+10562	John Moyer	/wiki/John_Moyer
+10563	Steve Kmak	/wiki/Steve_Kmak
+10564	Steve Kmak	/wiki/Steve_%22Fuzz%22_Kmak
+10565	Marty O'Brien	/wiki/Marty_O%27Brien
+10566	Ünloco	/wiki/%C3%9Cnloco
+10567	Ill Niño	/wiki/Ill_Ni%C3%B1o
+10568	Art of Dying (band)	/wiki/Art_of_Dying_(band)
+10569	Bad Wolves	/wiki/Bad_Wolves
+10571	Fight or Flight (band)	/wiki/Fight_or_Flight_(band)
+10572	The Union Underground	/wiki/The_Union_Underground
+10588	Will Calhoun	/wiki/Will_Calhoun
+10589	Doug Wimbish	/wiki/Doug_Wimbish
+10594	Andrew Stockdale	/wiki/Andrew_Stockdale
+10604	GZR	/wiki/GZR
+10605	Jeff Fenholt	/wiki/Jeff_Fenholt
+10606	Ray Gillen	/wiki/Ray_Gillen
+10607	Tony Martin (British singer)	/wiki/Tony_Martin_(British_singer)
+10608	Jo Burt	/wiki/Jo_Burt
+10628	Willard (band)	/wiki/Willard_(band)
+10643	Atom Smash	/wiki/Atom_Smash
+10646	Ian Astbury	/wiki/Ian_Astbury
+10649	Damon Fox (musician)	/wiki/Damon_Fox_(musician)
+10654	Mike Dimkich	/wiki/Mike_Dimkich
+10670	Kevin Churko	/wiki/Kevin_Churko
+10671	Ivan Moody	/wiki/Ivan_Moody_(vocalist)
+10705	Terry Butler	/wiki/Terry_Butler
+10706	Paul Masvidal	/wiki/Paul_Masvidal
+10707	Charred Walls of the Damned	/wiki/Charred_Walls_of_the_Damned
+10708	Control Denied	/wiki/Control_Denied
+10709	Repulsion (band)	/wiki/Repulsion_(band)
+10710	Shannon Hamm	/wiki/Shannon_Hamm
+10711	Richard Christy	/wiki/Richard_Christy
+10712	Scott Carlson	/wiki/Scott_Carlson
+10713	Slaughter (Canadian band)	/wiki/Slaughter_(Canadian_band)
+10714	Chris Reifert	/wiki/Chris_Reifert
+10715	James Murphy (guitarist)	/wiki/James_Murphy_(metal_guitarist)
+10716	Steve Di Giorgio	/wiki/Steve_Di_Giorgio
+10717	Sean Reinert	/wiki/Sean_Reinert
+10718	Sadus	/wiki/Sadus
+10719	Andy LaRocque	/wiki/Andy_LaRocque
+10720	Ralph Santolla	/wiki/Ralph_Santolla
+10721	Death (metal band)	/wiki/Scott_Clendenin
+10722	Old Man's Child	/wiki/Old_Man%27s_Child
+10723	Zimmers Hole	/wiki/Zimmers_Hole
+10724	Pitch Black Forecast	/wiki/Pitch_Black_Forecast
+10725	James Murphy (guitarist)	/wiki/Disincarnate
+10726	Cancer (band)	/wiki/Cancer_(band)
+10727	Deron Miller	/wiki/Deron_Miller
+10728	CKY (band)	/wiki/CKY_(band)
+10729	Obscura (band)	/wiki/Obscura_(band)
+10730	Steffen Kummerer	/wiki/Steffen_Kummerer
+10731	Abysmal Dawn	/wiki/Abysmal_Dawn
+10732	Exhumed (band)	/wiki/Exhumed_(band)
+10755	Tony Rombola	/wiki/Tony_Rombola
+10756	Another Animal	/wiki/Another_Animal
+10757	Dropbox (band)	/wiki/Dropbox_(band)
+10760	Vicious Rumors	/wiki/Geoff_Thorpe
+10795	Jay Schellen	/wiki/Jay_Schellen
+10817	Timi Hansen	/wiki/Timi_Hansen
+10818	Sharlee D'Angelo	/wiki/Sharlee_D%27Angelo
+10819	Snowy Shaw	/wiki/Snowy_Shaw
+10820	Fate (band)	/wiki/Fate_(band)
+10821	Joey Vera	/wiki/Joey_Vera
+10833	Picture (band)	/wiki/Diamond_Dreamer
+10839	Sonny Sandoval	/wiki/Sonny_Sandoval
+10848	C. J. Ramone	/wiki/C._J._Ramone
+10853	Plasmatics	/wiki/Plasmatics
+10859	Jerry Only	/wiki/Jerry_Only
+10860	Paul Di'Anno	/wiki/Paul_Dianno
+10876	Kelly Garni	/wiki/Kelly_Garni
+10878	Quiet Riot	/wiki/Drew_Forsyth_(musician)
+10879	Dana Strum	/wiki/Dana_Strum
+10880	Michael Romeo	/wiki/Michael_Romeo
+10881	Alexi Laiho	/wiki/Alexi_Laiho
+10882	Quiet Riot	/wiki/Quiet_Riot_discography
+10883	Jizzy Pearl	/wiki/Jizzy_Pearl
+10884	Neil Citron	/wiki/Neil_Citron
+10892	Death Angel	/wiki/Death_Angel_(band)
+10893	James Murphy (guitarist)	/wiki/James_Murphy_(guitarist)
+10894	Carl Albert (musician)	/wiki/Carl_Albert_(musician)
+10895	Steve Smyth	/wiki/Steve_Smyth
+10896	Ira Black (musician)	/wiki/Ira_Black_(musician)
+10897	Lizzy Borden (band)	/wiki/Lizzy_Borden_(band)
+10899	Greg Christian	/wiki/Greg_Christian
+10900	Vicious Rumors	/wiki/Electric_Punishment
+10901	Trey Gunn	/wiki/Trey_Gunn
+10929	Melvin Gibbs	/wiki/Melvin_Gibbs
+10930	The Ocean (band)	/wiki/The_Ocean_(band)
+10931	Caligula's Horse	/wiki/Caligula%27s_Horse_(band)
+10932	Last Chance to Reason	/wiki/Last_Chance_to_Reason
+10933	Indukti	/wiki/Indukti
+10934	Yob (band)	/wiki/Yob_(band)
+10935	Pyrrhon (band)	/wiki/Pyrrhon_(band)
+10936	Zeni Geva	/wiki/Zeni_Geva
+10937	Ancestors (band)	/wiki/Ancestors_(band)
+10938	Oranssi Pazuzu	/wiki/Oranssi_Pazuzu
+10943	Dan Briggs (musician)	/wiki/Dan_Briggs_(musician)
+10944	Blake Richardson (drummer)	/wiki/Blake_Richardson_(drummer)
+10945	Matthew McDonough	/wiki/Matthew_McDonough
+10953	UKZ	/wiki/UKZ
+10965	Cadaverous Condition	/wiki/Cadaverous_Condition
+10971	Lock Up (American band)	/wiki/Lock_Up_(American_band)
+10973	Morphic (band)	/wiki/Morphic_(band)
+10977	Trust Company (band)	/wiki/Trust_Company_(band)
+11005	Darren Wharton	/wiki/Darren_Wharton
+11006	Brian Downey (drummer)	/wiki/Brian_Downey_(drummer)
+11010	Ricky Warwick	/wiki/Ricky_Warwick
+11012	Scott Travis	/wiki/Scott_Travis
+11020	The Almighty (band)	/wiki/The_Almighty_(band)
+11039	Eugent Bushpepa	/wiki/Eugent_Bushpepa
+11051	Zlatan Stipišić Gibonni	/wiki/Zlatan_Stipi%C5%A1i%C4%87_Gibonni
+11058	Miša Aleksić	/wiki/Mi%C5%A1a_Aleksi%C4%87
+11062	Sead Lipovača	/wiki/Sead_Lipova%C4%8Da
+11063	Mladen Vojičić Tifa	/wiki/Mladen_Voji%C4%8Di%C4%87_Tifa
+11091	Buster Brown (band)	/wiki/Buster_Brown_(band)
+11092	Johnny Edwards (musician)	/wiki/Johnny_Edwards_(musician)
+11093	David Ellefson	/wiki/Dave_Ellefson
+11107	Hank Williams III	/wiki/Hank_III
+11109	Operator (band)	/wiki/Operator_(band)
+11110	Chevelle (band)	/wiki/Chevelle_(rock_band)
+11112	Since October	/wiki/Since_October
+11113	Anew Revolution	/wiki/Anew_Revolution
+11116	Red Hot Chili Peppers	/wiki/By_the_Way_tour
+11117	Chickenfoot	/wiki/Chickenfoot_(band)
+11121	Nick Douglas	/wiki/Nick_Douglas
+11122	Blaze Bayley	/wiki/Blaze_Bayley
+11123	Paul Morris (musician)	/wiki/Paul_Morris_(musician)
+11124	Nelson (band)	/wiki/Nelson_(band)
+11125	Kevin Shirley	/wiki/Kevin_Shirley
+11127	Detente (band)	/wiki/Detente_(band)
+11128	Bob Kulick	/wiki/Bob_Kulick
+11129	Van Canto	/wiki/Van_Canto
+11130	Peter Steele	/wiki/Peter_Steele
+11131	Bonfire (band)	/wiki/Bonfire_(band)
+11132	Udo Dirkschneider	/wiki/Udo_Dirkschneider
+11133	Claus Lessmann	/wiki/Claus_Lessmann
+11134	Marc Storace	/wiki/Marc_Storace
+11135	Luca Princiotta	/wiki/Luca_Princiotta
+11136	Blaze Bayley	/wiki/Blaze_(metal_band)
+11137	Sons of Seasons	/wiki/Sons_of_Seasons
+11138	Leaves' Eyes	/wiki/Leaves%27_Eyes
+11139	Bobby Ellsworth	/wiki/Bobby_Ellsworth
+11140	Grave Digger (band)	/wiki/Chris_Boltendahl
+11141	Tarja Turunen	/wiki/Tarja_Turunen
+11142	Warrel Dane	/wiki/Warrel_Dane
+11143	Liv Kristine	/wiki/Liv_Kristine
+11144	Floor Jansen	/wiki/Floor_Jansen
+11145	Alexander Krull	/wiki/Alexander_Krull
+11146	Saltatio Mortis	/wiki/Saltatio_Mortis
+11147	John DeServio	/wiki/Cycle_of_Pain
+11148	Krypteria	/wiki/Krypteria
+11149	Destruction (band)	/wiki/Schmier
+11150	Mille Petrozza	/wiki/Mille_Petrozza
+11151	Knorkator	/wiki/Knorkator
+11152	Amen (rock musician)	/wiki/Amen_(rock_musician)
+11154	Crystal Viper	/wiki/Crystal_Viper
+11155	Jon Levin	/wiki/Jon_Levin
+11157	Bobby Blotzer	/wiki/Bobby_Blotzer
+11179	Mike Muir	/wiki/Suicidal_Records
+11180	Dale Henderson	/wiki/Dale_Henderson
+11186	Jen Ledger	/wiki/Jen_Ledger
+11187	John Cooper (musician)	/wiki/John_Cooper_(musician)
+11188	John Cooper (musician)	/wiki/Fight_the_Fury
+11189	Skillet (band)	/wiki/Korey_Cooper
+11190	Skillet (band)	/wiki/Seth_Morrison_(musician)
+11192	Skillet (band)	/wiki/Lori_Peters
+11193	Skillet (band)	/wiki/Ben_Kasica
+11194	Lacey Sturm	/wiki/Lacey_Mosley
+11195	Decyfer Down	/wiki/Decyfer_Down
+11196	Disciple (band)	/wiki/Disciple_(band)
+11198	The Letter Black	/wiki/The_Letter_Black
+11201	We as Human	/wiki/We_as_Human
+11214	Nelson (band)	/wiki/Gunnar_Nelson_(musician)
+11215	Nelson (band)	/wiki/Matthew_Nelson_(musician)
+11224	Les Claypool	/wiki/Les_Claypool_and_the_Holy_Mackerel
+11225	Tim Alexander	/wiki/Tim_Alexander
+11232	Pressure 4-5	/wiki/Pressure_4-5
+11233	Pleymo	/wiki/Pleymo
+11283	Warfaze	/wiki/Warfaze
+11285	Rusty Cooley	/wiki/Rusty_Cooley
+11286	Sacred Mother Tongue	/wiki/Sacred_Mother_Tongue
+11288	Powersurge (band)	/wiki/Powersurge_(band)
+11289	Arbovirus (band)	/wiki/Arbovirus_(band)
+11290	Artcell	/wiki/Artcell
+11291	Rockstrata	/wiki/Rockstrata
+11293	Ibrahim Ahmed Kamal	/wiki/Ibrahim_Ahmed_Kamal
+11294	Ark (Bangladeshi band)	/wiki/Ark_(Bangladeshi_band)
+11296	Raef al Hasan Rafa	/wiki/Raef_al_Hasan_Rafa
+11304	Adam Bomb	/wiki/Adam_Bomb
+11305	The Dogs D'Amour	/wiki/Dogs_D%27Amour
+11316	Blackie Lawless	/wiki/Blackie_Lawless
+11320	Damnocracy	/wiki/Damnocracy
+11349	Derek Grant (drummer)	/wiki/Derek_Grant_(drummer)
+11351	Hazen Street	/wiki/Hazen_Street
+11353	Synyster Gates	/wiki/Synyster_Gates
+11361	Sleeping with Sirens	/wiki/Sleeping_with_Sirens
+11363	Day of Fire	/wiki/Day_of_Fire
+11365	Eternal Oath	/wiki/Eternal_Oath
+11366	This Ending	/wiki/This_Ending
+11367	Roope Latvala	/wiki/Roope_Latvala
+11368	Brutal Truth	/wiki/Brutal_Truth
+11369	Vomitory (band)	/wiki/Vomitory_(band)
+11370	Sonic Syndicate	/wiki/Sonic_Syndicate
+11371	Himsa	/wiki/Himsa
+11372	Lars Göran Petrov	/wiki/Lars_G%C3%B6ran_Petrov
+11373	Ensiferum	/wiki/Ensiferum
+11374	Belphegor (band)	/wiki/Belphegor_(band)
+11375	The Absence	/wiki/The_Absence
+11376	Goatwhore	/wiki/Goatwhore
+11377	Skeletonwitch	/wiki/Skeletonwitch
+11378	Lazarus A.D.	/wiki/Lazarus_AD
+11379	Holy Grail (band)	/wiki/Holy_Grail_(band)
+11380	Grand Magus	/wiki/Grand_Magus
+11381	Unleashed (band)	/wiki/Unleashed_(band)
+11402	Rik Emmett	/wiki/Rik_Emmett
+11412	Daniel Erlandsson	/wiki/Daniel_Erlandsson
+11413	Justin Broadrick	/wiki/Justin_Broadrick
+11414	Carnage (band)	/wiki/Carnage_(band)
+11415	Confessor (band)	/wiki/Confessor_(band)
+11416	Trigger the Bloodshed	/wiki/Trigger_the_Bloodshed
+11417	Hell (British band)	/wiki/Hell_(British_band)
+11418	The Black Dahlia Murder (band)	/wiki/The_Black_Dahlia_Murder_(band)
+11419	Herod (band)	/wiki/Herod_(band)
+11420	Master (American band)	/wiki/Master_(American_band)
+11421	Macabre (band)	/wiki/Macabre_(band)
+11422	Cryptic Slaughter	/wiki/Cryptic_Slaughter
+11423	Botanist (band)	/wiki/Botanist_(band)
+11424	Carcass (band)	/wiki/Jeff_Walker_(musician)
+11439	Axxis	/wiki/Axxis
+11477	Led Zeppelin	/wiki/Led_Zeppelin_(band)
+11481	Thom Gimbel	/wiki/Thom_Gimbel
+11482	Kelly Hansen	/wiki/Kelly_Hansen
+11488	Wild Horses (US rock band)	/wiki/Wild_Horses_(US_rock_band)
+11489	John Purdell	/wiki/John_Purdell
+11490	Hurricane (American band)	/wiki/Hurricane_(American_band)
+11493	Mark Castillo	/wiki/Mark_Castillo
+11494	Bury Your Dead	/wiki/Bury_Your_Dead
+11507	List of Black Flag band members	/wiki/Anthony_Martinez_(drummer)
+11508	List of Black Flag band members	/wiki/C%27el_Revuelta
+11510	Würm (band)	/wiki/W%C3%BCrm_(band)
+11511	List of Black Flag band members	/wiki/Brian_Migdol
+11512	List of Black Flag band members	/wiki/Emil_Johnson
+11516	Most Precious Blood (band)	/wiki/Most_Precious_Blood_(band)
+11517	Drowningman	/wiki/Drowningman
+11518	Coalesce (band)	/wiki/Coalesce_(band)
+11519	Oliver Sykes	/wiki/Oliver_Sykes
+11520	List of Black Flag band members	/wiki/List_of_Black_Flag_band_members
+11534	Neal Avron	/wiki/Neal_Avron
+11537	Falcon (band)	/wiki/Falcon_(band)
+11549	Liquid Tension Experiment	/wiki/Liquid_Tension_Experiment
+11550	Explorers Club (band)	/wiki/Explorers_Club_(band)
+11551	OSI (band)	/wiki/OSI_(band)
+11552	Chris Collins (singer)	/wiki/Chris_Collins_(singer)
+11553	Kevin Moore	/wiki/Kevin_Moore
+11554	Charlie Dominici	/wiki/Charlie_Dominici
+11555	John Arch	/wiki/John_Arch
+11556	James LaBrie	/wiki/Winter_Rose_(band)
+11557	Dream Theater	/wiki/Metropolis_2000_(Dream_Theater_Tour)
+11558	Dream Theater	/wiki/Train_of_Thought_Tour
+11559	Dream Theater	/wiki/Octavarium_Tour
+11560	Symphony X	/wiki/Symphony_X
+11561	Burton C. Bell	/wiki/Burton_C._Bell
+11562	Dream Theater	/wiki/Chaos_in_Motion_Tour
+11563	Redemption (band)	/wiki/Redemption_(band)
+11564	Dream Theater	/wiki/Progressive_Nation_2008
+11565	Unexpect	/wiki/Unexpect
+11566	Beardfish (band)	/wiki/Beardfish_(band)
+11567	Dream Theater	/wiki/Progressive_Nation_2009
+11568	Scale the Summit	/wiki/Scale_the_Summit
+11569	Peter Wildoer	/wiki/Peter_Wildoer
+11570	Dream Theater	/wiki/A_Dramatic_Tour_of_Events
+11571	Dream Theater	/wiki/Nightmare_Cinema_(parody_rock_band)
+11573	Dream Theater	/wiki/Nightmare_Cinema_(band)
+11586	Deafheaven	/wiki/Deafheaven
+11598	Robert DeLeo	/wiki/Robert_DeLeo
+11600	Dry Cell (band)	/wiki/Dry_Cell_(band)
+11612	Spike (musician)	/wiki/Spike_(musician)
+11632	Brad Whitford	/wiki/Earth_Inc.
+11633	Inglorious	/wiki/Inglorious
+11648	James Dewees	/wiki/James_Dewees
+11657	The Rev	/wiki/Pinkly_Smooth
+11658	The Rev	/wiki/The_Rev
+11660	Blessthefall	/wiki/Blessthefall
+11662	Confide (band)	/wiki/Confide_(band)
+11663	Avatar (band)	/wiki/Avatar_(Swedish_band)
+11664	Motionless in White	/wiki/Motionless_in_White
+11665	Brian Haner	/wiki/Brian_Haner
+11672	Salem (UK band)	/wiki/Salem_(UK)
+11673	Uli Jon Roth	/wiki/Sky_of_Avalon_-_Prologue_to_the_Symphonic_Legends
+11674	Andy DiGelsomina	/wiki/Andy_DiGelsomina
+11675	Wolf Hoffmann	/wiki/Wolf_Hoffman
+11676	Uli Jon Roth	/wiki/Transcendental_Sky_Guitar
+11689	Tenacious D	/wiki/D_Fun_Pak
+11690	Tenacious D	/wiki/Jesus_Ranch
+11710	Claudio Sanchez	/wiki/Claudio_Sanchez
+11713	Coheed and Cambria	/wiki/Jon_Carleo
+11718	Dr. Know (guitarist)	/wiki/Dr._Know_(guitarist)
+11721	Dredg	/wiki/Dredg
+11722	The Dillinger Escape Plan	/wiki/Dillinger_Escape_Plan
+11724	Thank You Scientist	/wiki/Thank_You_Scientist
+11725	Glassjaw	/wiki/Glassjaw
+11727	Polyphia	/wiki/Polyphia
+11730	He Is Legend	/wiki/Matt_Williams_(musician)
+11732	Troy Donockley	/wiki/Troy_Donockley
+11733	BulletBoys	/wiki/BulletBoys
+11734	Johnny Crash	/wiki/Johnny_Crash
+11736	Michael Jagosz	/wiki/Michael_Jagosz
+11737	Sea Hags	/wiki/Sea_Hags
+11739	Sean Beavan	/wiki/Sean_Beaven
+11740	The Beautiful (band)	/wiki/The_Beautiful_(band)
+11758	Nicke Andersson	/wiki/Nicke_Andersson
+11763	Billy Gould	/wiki/Billy_Gould
+11776	No One Is Innocent	/wiki/No_One_Is_Innocent
+11816	Doug Sampson	/wiki/Doug_Sampson
+11817	Paul Day (musician)	/wiki/Paul_Day_(musician)
+11818	Thunderstick	/wiki/Thunderstick
+11820	Iron Maiden	/wiki/Give_Me_Ed..._%27Til_I%27m_Dead_Tour
+11821	Jesper Strömblad	/wiki/Jesper_Str%C3%B6mblad
+11822	Cam Pipes	/wiki/Cam_Pipes
+11824	Maiden uniteD	/wiki/Maiden_uniteD
+11825	Threshold (band)	/wiki/Threshold_(band)
+11827	The Iron Maidens	/wiki/The_Iron_Maidens
+11828	Blaze Bayley	/wiki/Lawrence_Paterson
+11829	Bruce Dickinson	/wiki/List_of_Bruce_Dickinson_concert_tours
+11830	Daniel Löble	/wiki/Daniel_L%C3%B6ble
+11831	Thomas Zwijsen	/wiki/Thomas_Zwijsen
+11832	Blaze Bayley	/wiki/Infinite_Entanglement
+11833	Blaze Bayley	/wiki/Endure_And_Survive
+11834	Demons & Wizards (band)	/wiki/Demons_%26_Wizards_(band)
+11835	Jon Schaffer	/wiki/Jon_Schaffer
+11836	Stu Block	/wiki/Stu_Block
+11837	Jake Dreyer	/wiki/Jake_Dreyer
+11838	Matt Barlow	/wiki/Matt_Barlow
+11839	Iced Earth	/wiki/Brent_Smedley
+11840	Iced Earth	/wiki/Ernie_Carletti
+11841	Iced Earth	/wiki/Troy_Seele
+11842	Fury UK	/wiki/Fury_UK
+11843	Demons & Wizards (band)	/wiki/Demons_and_Wizards_(band)
+11862	Bob Catley	/wiki/Bob_Catley
+11875	Full Service (band)	/wiki/Full_Service_(band)
+11879	Shinobi Ninja	/wiki/Shinobi_Ninja
+11880	311 (band)	/wiki/Dammit!
+11906	Donita Sparks	/wiki/Donita_Sparks
+11907	Valient Thorr	/wiki/Valient_Thorr
+11917	Metal Church	/wiki/Ground_Zero_(record_label)
+11919	Reverend (band)	/wiki/Reverend_(band)
+11920	Heretic (band)	/wiki/Heretic_(band)
+11921	Kurdt Vanderhoof	/wiki/Kurdt_Vanderhoof
+11922	Mike Howe	/wiki/Mike_Howe
+11923	Culprit (band)	/wiki/Culprit_(band)
+11924	Forced Entry (band)	/wiki/Forced_Entry_(band)
+11925	David Wayne (musician)	/wiki/David_Wayne_(singer)
+11926	Ronny Munroe	/wiki/Ronny_Munroe
+11927	Meliah Rage	/wiki/Meliah_Rage
+11928	David Wayne (musician)	/wiki/David_Wayne_(musician)
+11933	Stitched Up Heart	/wiki/Stitched_Up_Heart
+11938	Dimebag Darrell	/wiki/Darrell_Abbott
+11939	Sly (band)	/wiki/Sly_(band)
+11940	Minoru Niihara	/wiki/Minoru_Niihara
+11958	Metallica	/wiki/Spastik_Children
+11959	Trauma (American band)	/wiki/Trauma_(American_band)
+11960	Metallica	/wiki/Kill_%27Em_All_for_One
+11961	Echobrain	/wiki/Echobrain
+11962	Pepper Keenan	/wiki/Pepper_Keenan
+11963	Scott Reeder (bassist)	/wiki/Scott_Reeder_(bassist)
+11964	Robb Flynn	/wiki/Robb_Flynn
+11965	Dave Chavarri	/wiki/Dave_Chavarri
+11966	Beatallica	/wiki/Beatallica
+11967	Metallica	/wiki/So_What!
+11970	Uriah Heep (band)	/wiki/Phil_Lanzon
+11988	Glenn Tipton	/wiki/Glenn_Tipton
+11995	Great White	/wiki/Great_White_(band)
+12018	Steel Attack	/wiki/Steel_Attack
+12027	Henry Small (singer)	/wiki/Henry_Small_(singer)
+12031	Ian Hill	/wiki/Ian_Hill
+12049	Daron Malakian and Scars on Broadway	/wiki/Scars_on_Broadway
+12050	Ontronik Khachaturian	/wiki/Ontronik_Khachaturian
+12051	Mt. Helium	/wiki/The_Apex_Theory
+12052	Mt. Helium	/wiki/Mt._Helium
+12053	Puya (band)	/wiki/Puya_(band)
+12054	Bad Acid Trip	/wiki/Bad_Acid_Trip
+12065	Parkway Drive	/wiki/Parkway_Drive
+12081	Black Sabbath	/wiki/Black_Sabbath_(band)
+12085	Chris von Rohr	/wiki/Chris_von_Rohr
+12086	Fernando von Arb	/wiki/Fernando_von_Arb
+12087	Kosta Zafiriou	/wiki/Kosta_Zafiriou
+12091	Killer (Swiss band)	/wiki/Killer_(Swiss_band)
+12102	Mick Box	/wiki/Mick_Box
+12103	Russell Gilbrook	/wiki/Russell_Gilbrook
+12104	David Byron	/wiki/David_Byron
+12105	Trevor Bolder	/wiki/Trevor_Bolder
+12109	Stratus (English band)	/wiki/Stratus_(English_band)
+12113	IQ (band)	/wiki/IQ_(band)
+12117	Joe C.	/wiki/Joe_C.
+12129	Steve Priest	/wiki/Steve_Priest
+12133	Paul Day (musician)	/wiki/Paul_Mario_Day
+12135	Tony Mills (musician)	/wiki/Tony_Mills_(musician)
+12136	Shy (band)	/wiki/Shy_(band)
+12171	Billy Howerdel	/wiki/Billy_Howerdel
+12172	Joe C.	/wiki/Joe_C
+12188	Debris Inc.	/wiki/Debris_Inc.
+12189	Pat Bruders	/wiki/Pat_Bruders
+12190	Count Raven	/wiki/Count_Raven
+12191	Witch Mountain (band)	/wiki/Witch_Mountain_(band)
+12196	Joey Tempest	/wiki/Joey_Tempest
+12197	John Levén	/wiki/John_Lev%C3%A9n
+12198	Mic Michaeli	/wiki/Mic_Michaeli
+12199	Tony Reno	/wiki/Tony_Reno
+12200	Kee Marcello	/wiki/Kee_Marcello
+12233	Allen Lanier	/wiki/Allen_Lanier
+12239	Gorgeous Frankenstein	/wiki/Gorgeous_Frankenstein
+12240	Kryst the Conqueror	/wiki/Kryst_the_Conqueror
+12241	Gotham Road	/wiki/Gotham_Road
+12242	Graves (band)	/wiki/Graves_(band)
+12244	Doyle Wolfgang von Frankenstein	/wiki/Doyle_Wolfgang_von_Frankenstein
+12245	Acey Slade	/wiki/Acey_Slade
+12247	Dr. Chud	/wiki/Dr._Chud
+12248	Michale Graves	/wiki/Michale_Graves
+12249	Marc Rizzo	/wiki/Marc_Rizzo
+12250	Doyle Wolfgang von Frankenstein	/wiki/Paul_Caiafa
+12252	Eerie Von	/wiki/Eerie_Von
+12253	Dr. Chud's X-Ward	/wiki/Dr._Chud%27s_X-Ward
+12256	Jason McCaslin	/wiki/Jason_McCaslin
+12257	Frank Zummo	/wiki/Frank_Zummo
+12258	Dave Baksh	/wiki/Dave_Baksh
+12259	Steve Jocz	/wiki/Steve_Jocz
+12261	Brown Brigade	/wiki/Brown_Brigade
+12264	Tom Thacker (musician)	/wiki/Tom_Thacker_(singer)
+12274	Darrin Pfeiffer	/wiki/Darrin_Pfeiffer
+12278	Allan Sørensen	/wiki/Allan_S%C3%B8rensen
+12279	Pretty Maids	/wiki/Ronnie_Atkins
+12281	Mike Tramp	/wiki/Mike_Tramp
+12283	Carnivore (band)	/wiki/Carnivore_(band)
+12284	Fallout (band)	/wiki/Fallout_(band)
+12285	Seventh Void	/wiki/Seventh_Void
+12286	Silvertomb	/wiki/Silvertomb
+12287	Kenny Hickey	/wiki/Kenny_Hickey
+12288	Josh Silver	/wiki/Josh_Silver
+12289	Sal Abruscato	/wiki/Sal_Abruscato
+12290	Pist.On	/wiki/Pist.On
+12291	VAST	/wiki/Bang_Band_Sixxx
+12292	Jon Crosby	/wiki/Jon_Crosby
+12293	Memento (band)	/wiki/Justin_Cotta
+12294	Rowan Robertson	/wiki/Rowan_Robertson_(Musician)
+12295	VAST	/wiki/Live_in_Seattle:_Acoustic_at_Tower_Records
+12296	VAST	/wiki/Vast_(band)
+12319	Heavy Bones	/wiki/Heavy_Bones
+12320	FireHouse	/wiki/FireHouse_(band)
+12321	Adler's Appetite	/wiki/Adler%27s_Appetite
+12322	Adler's Appetite	/wiki/Sheldon_Tarsha
+12323	Mike Dupke	/wiki/Mike_Dupke
+12328	Goatsnake	/wiki/Goatsnake
+12329	Acid King	/wiki/Acid_King
+12331	Clearlight (American band)	/wiki/Clearlight_(American_band)
+12334	Michael Poulsen	/wiki/Michael_Poulsen
+12335	Dominus (band)	/wiki/Dominus_(band)
+12336	Franz Gottschalk	/wiki/Franz_Gottschalk
+12337	Thomas Bredahl	/wiki/Thomas_Bredahl
+12338	Anders Kjølholm	/wiki/Anders_Kj%C3%B8lholm
+12339	Spoken (band)	/wiki/Spoken_(band)
+12355	Hot Leg	/wiki/Hot_Leg_(band)
+12357	Jay Jay French	/wiki/Jay_Jay_French
+12362	Jeff Martin (American musician)	/wiki/Jeff_Martin_(American_musician)
+12363	Bow Wow (band)	/wiki/Vow_Wow
+12365	Racer X (band)	/wiki/Racer_X_(band)
+12366	Spastic Ink	/wiki/Spastic_Ink
+12367	Shotgun Messiah	/wiki/Shotgun_Messiah
+12368	Jeff Duncan (musician)	/wiki/Jeff_Duncan_(musician)
+12373	Glenn Hughes (musician)	/wiki/Glenn_Hughes_(English_musician)
+12376	David Donato (singer)	/wiki/David_Donato_(singer)
+12377	Laurence Cottle	/wiki/Laurence_Cottle
+12378	Circus of Power	/wiki/Circus_of_Power
+12379	Ernie C	/wiki/Ernie_C
+12380	Dave Holland (drummer)	/wiki/Dave_Holland_(drummer)
+12386	Suzi Gardner	/wiki/Suzi_Gardner
+12387	Jennifer Finch	/wiki/Jennifer_Finch
+12388	Demetra Plakas	/wiki/Demetra_Plakas
+12389	Gail Greenwood	/wiki/Gail_Greenwood
+12390	Janis Tanaka	/wiki/Janis_Tanaka
+12397	Zinny J. Zan	/wiki/Zinny_J._Zan
+12398	Shotgun Messiah	/wiki/Kingpin_(band)
+12411	Lizzie Grey	/wiki/Lizzie_Grey
+12412	Randy Piper	/wiki/Randy_Piper
+12413	David Chastain	/wiki/David_Chastain
+12414	Brocas Helm (band)	/wiki/Brocas_Helm_(band)
+12425	The Wildhearts	/wiki/The_Wildhearts
+12431	SR-71 (band)	/wiki/SR-71_(band)
+12437	Zebrahead	/wiki/Zebrahead
+12442	Black Anvil	/wiki/Black_Anvil
+12443	Steve "Lips" Kudlow	/wiki/Steve_%22Lips%22_Kudlow
+12452	Lasse Hoile	/wiki/Lasse_Hoile
+12454	Riverside (band)	/wiki/Riverside_(band)
+12456	Kingfisher Sky	/wiki/Kingfisher_Sky
+12457	Coshish	/wiki/Coshish
+12458	Ruud Jolie	/wiki/Ruud_Jolie
+12461	Anders Nyström	/wiki/Anders_Nystr%C3%B6m
+12463	Fear My Thoughts	/wiki/Fear_My_Thoughts
+12465	Khors (band)	/wiki/Khors_(band)
+12466	Long Distance Calling (band)	/wiki/Long_Distance_Calling_(band)
+12468	Doug Blair	/wiki/Doug_Blair
+12469	Destrage	/wiki/Destrage
+12470	Thurisaz (band)	/wiki/Thurisaz_(band)
+12471	Sylvan (band)	/wiki/Sylvan_(band)
+12474	Rob Swire	/wiki/Rob_Swire
+12475	Øystein Brun	/wiki/%C3%98ystein_Brun
+12476	Borknagar	/wiki/Borknagar
+12477	Consecration (band)	/wiki/Consecration_(band)
+12478	Lori Lewis	/wiki/Lori_Lewis
+12480	Porcupine Tree	/wiki/Futile_(Porcupine_Tree)
+12482	The Rods	/wiki/The_Rods
+12484	Hellion (band)	/wiki/Hellion_(band)
+12486	Joey Belladonna	/wiki/Joey_Belladonna
+12488	Bible Black (band)	/wiki/Bible_Black_(band)
+12490	Tony Carey	/wiki/Tony_Carey
+12503	Gregg Giuffria	/wiki/Gregg_Giuffria
+12508	Armageddon USA	/wiki/Armageddon_USA
+12509	Mike Heller	/wiki/Mike_Heller
+12510	Coroner (band)	/wiki/Coroner_(band)
+12511	Razor (band)	/wiki/Razor_(band)
+12512	Metallica	/wiki/Kill_%27Em_All_Tour
+12514	Chuck Billy (vocalist)	/wiki/Chuck_Billy_(vocalist)
+12515	Malignancy (band)	/wiki/Malignancy_(band)
+12519	Ty Segall	/wiki/Ty_Segall
+12530	Rusty Day	/wiki/Rusty_Day
+12538	Impellitteri	/wiki/Impelliteri
+12539	Over the Rainbow (band)	/wiki/Over_the_Rainbow_(band)
+12540	Lords of Black	/wiki/Lords_of_Black
+12541	Ulver	/wiki/Ulver
+12544	Janne Stark	/wiki/Janne_Stark
+12545	Adam Bomb	/wiki/Adam_Bomb_(musician)
+12560	John Rutsey	/wiki/John_Rutsey
+12591	Michael Lira	/wiki/Michael_Lira
+12600	Elias Mallin	/wiki/Elias_Mallin
+12602	John 5 (guitarist)	/wiki/John_5_(musician)
+12618	Whitfield Crane	/wiki/Whitfield_Crane
+12619	Tiamat (band)	/wiki/Tiamat_(band)
+12621	Skin (musician)	/wiki/Deborah_Dyer
+12625	Mustasch	/wiki/Mustasch
+12626	Meldrum	/wiki/Meldrum
+12634	Pailhead	/wiki/Pailhead
+12635	Rigor Mortis (band)	/wiki/Rigor_Mortis_(band)
+12637	Paul D'Amour	/wiki/Paul_D%27Amour
+12639	Paul Barker	/wiki/Paul_Barker
+12640	Paul Raven (musician)	/wiki/Paul_Raven_(musician)
+12641	Mike Scaccia	/wiki/Mike_Scaccia
+12642	Tony Campos	/wiki/Tony_Campos
+12647	Treponem Pal	/wiki/Treponem_Pal
+12648	Hemlock (band)	/wiki/Hemlock_(band)
+12651	Beefcake the Mighty	/wiki/Beefcake_the_Mighty
+12654	Ednaswap	/wiki/Ednaswap
+12657	Burke Shelley	/wiki/Burke_Shelley
+12658	Tredegar (band)	/wiki/Tredegar_(band)
+12659	Steve Williams (rock drummer)	/wiki/Steve_Williams_(rock_drummer)
+12660	Tony Bourge	/wiki/Tony_Bourge
+12686	Sarcófago	/wiki/Sarc%C3%B3fago
+12687	Nailbomb	/wiki/Nailbomb
+12689	De La Tierra	/wiki/De_La_Tierra
+12690	Paulo Jr.	/wiki/Paulo_Jr.
+12691	Derrick Green	/wiki/Derrick_Green
+12692	Eloy Casagrande	/wiki/Eloy_Casagrande
+12693	Jairo Guedz	/wiki/Jairo_Guedz
+12694	Jean Dolabella	/wiki/Jean_Dolabella
+12695	Wagner Lamounier	/wiki/Wagner_Lamounier
+12696	Stress (Brazilian band)	/wiki/Stress_(Brazilian_band)
+12697	Sagrado Inferno	/wiki/Sagrado_Inferno
+12698	Dorsal Atlântica	/wiki/Dorsal_Atl%C3%A2ntica
+12699	Jairo Guedz	/wiki/Jairo_Guedes
+12700	Fudge Tunnel	/wiki/Fudge_Tunnel
+12701	Morgoth (band)	/wiki/Morgoth_(band)
+12702	Merauder	/wiki/Merauder
+12703	Jason Jones (musician)	/wiki/Jason_Jones_(singer)
+12704	Gloria (Brazilian band)	/wiki/Gloria_(Brazilian_band)
+12705	Mortal Sin (band)	/wiki/Mortal_Sin_(band)
+12707	Aborted	/wiki/Aborted
+12709	Alien Weaponry	/wiki/Alien_Weaponry
+12710	Xibalba (band)	/wiki/Xibalba_(band)
+12711	Vein (band)	/wiki/Vein_(band)
+12712	Nails (band)	/wiki/Nails_(band)
+12713	Paul Ferguson	/wiki/Paul_Ferguson
+12714	Geordie Walker	/wiki/Geordie_Walker
+12719	Ted Parsons	/wiki/Ted_Parsons
+12735	Charlie Benante	/wiki/Charlie_Benante
+12736	Frank Bello	/wiki/Frank_Bello
+12737	Dan Spitz	/wiki/Dan_Spitz
+12738	John Connelly (musician)	/wiki/John_Connelly_(musician)
+12739	Paul Crook	/wiki/Paul_Crook
+12740	Dan Nelson	/wiki/Dan_Nelson
+12741	Volbeat	/wiki/Volbeat_(band)
+12766	Shout (band)	/wiki/Shout_(band)
+12767	Magdallan	/wiki/Magdallan
+12772	Eddie Ojeda	/wiki/Eddie_Ojeda
+12773	A. J. Pero	/wiki/A._J._Pero
+12775	Desperado (band)	/wiki/Desperado_(band)
+12776	Scarecrow (band)	/wiki/Scarecrow_(band)
+12778	Satchel (musician)	/wiki/Russ_Parrish
+12779	Great White	/wiki/Robby_Lochner
+12780	Mark Chaussee	/wiki/Mark_Chaussee
+12783	Chelsea Wolfe	/wiki/Chelsea_Wolfe
+12786	Steve Von Till	/wiki/Steve_Von_Till
+12792	Mel Gaynor	/wiki/Mel_Gaynor
+12793	Keel (band)	/wiki/Keel_(band)
+12794	Ezo (band)	/wiki/Ezo_(band)
+12795	Dead End (band)	/wiki/Dead_End_(band)
+12796	Nogod	/wiki/NoGoD
+12797	DGM (band)	/wiki/DGM_(band)
+12800	Lillian Axe	/wiki/Steve_Blaze
+12811	Zach Blair	/wiki/Zach_Blair
+12822	Cave In	/wiki/Cave_In
+12858	Bon Jovi	/wiki/Bon_Jovi_(band)
+12859	Twisted Sister	/wiki/Twisted_Sister_(band)
+12860	The Wildhearts	/wiki/Wildhearts
+12862	English Dogs	/wiki/English_Dogs
+12875	Brent Muscat	/wiki/Brent_Muscat
+12876	Robbie Crane	/wiki/Robbie_Crane
+12877	Rick Stitch	/wiki/Rick_Stitch
+12878	Tuff (band)	/wiki/Michael_Thomas_(American_musician)
+12881	Beautiful Creatures (band)	/wiki/Beautiful_Creatures_(band)
+12882	Pretty Boy Floyd (American band)	/wiki/Pretty_Boy_Floyd_(American_band)
+12883	Chris Weber	/wiki/Chris_Weber
+12884	Axl Rose	/wiki/Rapidfire
+12890	Halloween (band)	/wiki/Halloween_(metal_band)
+12901	Timo Ellis	/wiki/Timo_Ellis
+12922	Dave Henzerling	/wiki/Dave_Henzerling
+12933	Ron "Bumblefoot" Thal	/wiki/Bumblefoot_(musician)
+12935	Patrick Kennison	/wiki/Patrick_Kennison
+12976	2Cents	/wiki/2Cents
+12977	Rev Theory	/wiki/Rev_Theory
+12978	Hail the Villain	/wiki/Hail_the_Villain
+12979	Light the Torch	/wiki/Devil_You_Know_(band)
+12980	Wovenwar	/wiki/Wovenwar
+12981	Kyng (band)	/wiki/Kyng_(band)
+12982	Black Tusk (band)	/wiki/Black_Tusk_(band)
+12984	Huntress (band)	/wiki/Huntress_(band)
+12985	Silent Voices (band)	/wiki/Silent_Voices_(band)
+12986	Cain's Offering	/wiki/Cain%27s_Offering
+12987	Tony Kakko	/wiki/Tony_Kakko
+12988	Henrik Klingenberg	/wiki/Henrik_Klingenberg
+12989	Elias Viljanen	/wiki/Elias_Viljanen
+12990	Jani Liimatainen	/wiki/Jani_Liimatainen
+12991	Vanishing Point (band)	/wiki/Vanishing_Point_(band)
+12992	Xandria	/wiki/Xandria
+12993	Arven (band)	/wiki/Arven_(band)
+12994	Powerglove (band)	/wiki/Powerglove_(band)
+12995	Timeless Miracle	/wiki/Timeless_Miracle
+12996	Timo Kotipelto	/wiki/Timo_Kotipelto
+12997	Sonata Arctica	/wiki/Pasi_Kauppinen
+12998	Northern Kings	/wiki/Northern_Kings
+12999	Symfonia	/wiki/Symfonia
+13000	Dan Biggin	/wiki/Dan_Biggin
+13001	Ani Kyd	/wiki/Ani_Kyd
+13010	Rodney Sheppard	/wiki/Rodney_Sheppard
+13011	Stan Frazier (musician)	/wiki/Stan_Frazier_(musician)
+13013	Crazy Town	/wiki/Crazy_Town
+13016	Huw Lloyd-Langton	/wiki/Lloyd_Langton_Group
+13022	Electric Wizard	/wiki/Electric_Wizard
+13046	Sun Red Sun	/wiki/Sun_Red_Sun
+13048	Brent Smith	/wiki/Brent_Smith
+13052	Trevor McNevan	/wiki/Trevor_McNevan
+13057	Mike Levine (musician)	/wiki/Mike_Levine_(musician)
+13058	Aldo Nova	/wiki/Aldo_Nova
+13068	Rob Grange	/wiki/Rob_Grange
+13078	Richie Faulkner	/wiki/Richie_Faulkner
+13109	Lionheart (hardcore punk band)	/wiki/Lionheart_(Hardcore_punk_band)
+13110	Steelheart	/wiki/Steelheart
+13116	Allen McKenzie	/wiki/Allen_McKenzie
+13117	Perry Richardson	/wiki/Perry_Richardson
+13119	Dario Seixas	/wiki/Dario_Seixas
+13120	L.A. Guns	/wiki/LA_Guns
+13130	Jamie Miller (American musician)	/wiki/Jamie_Miller_(US_musician)
+13140	Jamie Miller (American musician)	/wiki/Jamie_Miller_(American_musician)
+13180	K. K. Downing	/wiki/K._K._Downing
+13181	Al Atkins	/wiki/Al_Atkins
+13183	Judas Priest	/wiki/Sad_Wings_of_Destiny_Tour
+13184	Sabbat (English band)	/wiki/Sabbat_(English_band)
+13204	Trent Gardner	/wiki/Trent_Gardner
+13214	Goran Šepa	/wiki/Goran_%C5%A0epa
+13219	Alogia (band)	/wiki/Alogia_(band)
+13236	Hawaii (band)	/wiki/Hawaii_(band)
+13243	Toxik	/wiki/Toxik
+13245	Halloween (band)	/wiki/Halloween_(band)
+13246	Freedom Call	/wiki/Freedom_Call
+13247	Pink Cream 69	/wiki/Pink_Cream_69
+13248	Unisonic (band)	/wiki/Unisonic_(band)
+13249	Michael Weikath	/wiki/Michael_Weikath
+13250	Markus Grosskopf	/wiki/Markus_Grosskopf
+13251	Michael Kiske	/wiki/Michael_Kiske
+13252	Andi Deris	/wiki/Andi_Deris
+13253	Sascha Gerstner	/wiki/Sascha_Gerstner
+13254	Ingo Schwichtenberg	/wiki/Ingo_Schwichtenberg
+13255	Roland Grapow	/wiki/Roland_Grapow
+13256	Metalium	/wiki/Metalium
+13257	Firewind	/wiki/Firewind
+13265	Soil (American band)	/wiki/Soil_(American_band)
+13266	AM Conspiracy	/wiki/AM_Conspiracy
+13267	Stevie Benton	/wiki/Stevie_Benton
+13268	Dave Williams (singer)	/wiki/Dave_Williams_(singer)
+13269	Jason Jones (musician)	/wiki/Jason_Jones_(musician)
+13270	Ryan McCombs	/wiki/Ryan_McCombs
+13271	Soil (American band)	/wiki/SOiL
+13272	Switched (band)	/wiki/Ben_Schigel
+13273	Jason Jones (musician)	/wiki/Jason_Jones_(musican)
+13283	Slough Feg	/wiki/The_Lord_Weird_Slough_Feg
+13284	David Readman	/wiki/David_Readman
+13285	Venom (band)	/wiki/Venom_Inc.
+13288	Dragonlord (band)	/wiki/Dragonlord_(band)
+13289	Hatriot	/wiki/Hatriot
+13290	Dublin Death Patrol	/wiki/Dublin_Death_Patrol
+13291	Eric Peterson (musician)	/wiki/Eric_Peterson_(musician)
+13292	Louie Clemente	/wiki/Louie_Clemente
+13293	Asgeir Mickelson	/wiki/Asgeir_Mickelson
+13294	Mike Chlasciak	/wiki/Mike_Chlasciak
+13295	Paul Baloff	/wiki/Paul_Baloff
+13296	Lȧȧz Rockit	/wiki/Laaz_Rockit
+13297	Xentrix	/wiki/Xentrix
+13298	Sadus	/wiki/Sadus_(band)
+13299	Lazarus A.D.	/wiki/Lazarus_A.D.
+13300	Pestilence (band)	/wiki/Pestilence_(band)
+13301	Decrepit Birth	/wiki/Decrepit_Birth
+13302	Kataklysm	/wiki/Kataklysm
+13303	Suicidal Angels	/wiki/Suicidal_Angels
+13304	Sons of Texas	/wiki/Sons_of_Texas
+13305	Incite (band)	/wiki/Incite_(band)
+13306	Demolition Hammer	/wiki/Demolition_Hammer
+13309	Alfredo Hernández	/wiki/Alfredo_Hern%C3%A1ndez
+13310	Victor Indrizzo	/wiki/Victor_Indrizzo
+13315	John Garcia (singer)	/wiki/John_Garcia_(singer)
+13326	Peter Steele	/wiki/Peter_Ratajczyk
+13343	Powerflo	/wiki/Powerflo
+13344	Sen Dog	/wiki/Sen_Dog
+13346	SX-10	/wiki/SX-10
+13347	Kush (band)	/wiki/Kush_(band)
+13356	Operation: Mindcrime (band)	/wiki/Operation:_Mindcrime_(band)
+13358	Eddie Jackson (musician)	/wiki/Eddie_Jackson_(musician)
+13359	Parker Lundgren	/wiki/Parker_Lundgren
+13360	Kamelot	/wiki/Casey_Grillo
+13361	Kelly Gray (musician)	/wiki/Kelly_Gray_(musician)
+13362	Dalbello	/wiki/Dalbello
+13363	Pamela Moore	/wiki/Pamela_Moore
+13364	Soulbender	/wiki/Soulbender
+13365	Kamelot	/wiki/Kamelot_(band)
+13389	Cephalic Carnage	/wiki/Cephalic_Carnage
+13399	Dayglo Abortions	/wiki/Dayglo_Abortions
+13406	Peter Wells (guitarist)	/wiki/Peter_Wells_(guitarist)
+13409	Justin Chancellor	/wiki/Justin_Chancellor
+13410	Pigmy Love Circus	/wiki/Pigmy_Love_Circus
+13411	Peach (band)	/wiki/Peach_(band)
+13414	Earshot	/wiki/Earshot
+13417	Power Quest	/wiki/Power_Quest
+13418	Sinbreed	/wiki/Sinbreed
+13419	André Olbrich	/wiki/Andr%C3%A9_Olbrich
+13420	Marcus Siepen	/wiki/Marcus_Siepen
+13421	André Olbrich	/wiki/Andre_Olbrich
+13422	Seven Kingdoms (band)	/wiki/Seven_Kingdoms_(band)
+13423	Rolf Köhler	/wiki/Rolf_K%C3%B6hler
+13424	Blind Guardian	/wiki/Frederik_Ehmke
+13451	Mortal (band)	/wiki/Mortal_(band)
+13475	Chris McCarvill	/wiki/Chris_McCarvill
+13476	Mick Brown (musician)	/wiki/Mick_Brown_(musician)
+13478	Peter Baltes	/wiki/Peter_Baltes
+13479	T & N	/wiki/T_%26_N
+13486	Buck Dharma	/wiki/Buck_Dharma
+13487	Eric Bloom	/wiki/Eric_Bloom
+13488	Albert Bouchard	/wiki/Albert_Bouchard
+13489	Joe Bouchard	/wiki/Joe_Bouchard
+13490	Richie Castellano	/wiki/Richie_Castellano
+13506	Pat Travers	/wiki/Pat_Travers_Band
+13510	Zlatko Manojlović	/wiki/Zlatko_Manojlovi%C4%87
+13512	Warriors (band)	/wiki/Warriors_(band)
+13513	Warriors (band)	/wiki/Ratnici
+13542	Grinspoon	/wiki/Grinspoon
+13545	Kiss (band)	/wiki/KISS(band)
+13546	Y&T	/wiki/Best_of_%2781%E2%80%93%2785
+13547	Rob Halford	/wiki/Metal_God_Entertainment
+13554	Barry Stock	/wiki/Barry_Stock
+13555	Neil Sanderson	/wiki/Neil_Sanderson
+13563	Letlive	/wiki/Letlive
+13566	Alberto Contini	/wiki/Alberto_Contini
+13567	Bulldozer (band)	/wiki/Dance_Got_Sick!
+13582	Tomas Haake	/wiki/Tomas_Haake
+13583	Mårten Hagström	/wiki/M%C3%A5rten_Hagstr%C3%B6m
+13584	Dick Lövgren	/wiki/Dick_L%C3%B6vgren
+13585	Adam Duce	/wiki/Adam_Duce
+13586	Hypocrisy (band)	/wiki/Hypocrisy_(band)
+13587	Mats/Morgan Band	/wiki/Mats/Morgan_Band
+13588	Per Nilsson (guitarist)	/wiki/Per_Nilsson_(guitarist)
+13589	Scar Symmetry	/wiki/Scar_Symmetry
+13607	Rick Hunolt	/wiki/Rick_Hunolt
+13608	Andy Timmons	/wiki/Andy_Timmons
+13609	T-Ride	/wiki/T-Ride
+13610	Mike Keneally	/wiki/Mike_Keneally
+13612	Bryan Beller	/wiki/Bryan_Beller
+13616	David DeFeis	/wiki/David_DeFeis
+13617	Jack Starr	/wiki/Jack_Starr
+13618	Virgin Steele	/wiki/Edward_Pursino
+13619	Wolf Hoffmann	/wiki/Wolf_Hoffmann
+13620	Mark Tornillo	/wiki/Mark_Tornillo
+13621	Stefan Kaufmann (musician)	/wiki/Stefan_Kaufmann_(musician)
+13622	Jan Koemmet	/wiki/Jan_Koemmet
+13623	Herman Frank	/wiki/Herman_Frank
+13624	David Reece	/wiki/David_Reece
+13625	T.T. Quick	/wiki/T.T._Quick
+13626	Bad Steve	/wiki/Bad_Steve
+13627	Jim Stacey	/wiki/Jim_Stacey
+13638	Russ North	/wiki/Russ_North
+13648	Guy McCoy Tormé	/wiki/Guy_McCoy_Torm%C3%A9
+13649	McCoy (band)	/wiki/McCoy_(band)
+13650	Colin Towns	/wiki/Colin_Towns
+13653	Neurotica (band)	/wiki/Neurotica_(band)
+13654	Todd Kerns	/wiki/Todd_Kerns
+13659	Robert Sarzo	/wiki/Robert_Sarzo
+13660	The Cult	/wiki/The_Cult_(band)
+13663	Candy (band)	/wiki/Candy_(band)
+13665	Slash's Snakepit	/wiki/Rod_Jackson_(musician)
+13666	Frank Sidoris	/wiki/Frank_Sidoris
+13677	Pallas (band)	/wiki/Pallas_(band)
+13679	Waltari	/wiki/Waltari
+13680	Tankard (band)	/wiki/Tankard_(band)
+13681	Jürgen Reil	/wiki/J%C3%BCrgen_Reil
+13682	Sami Yli-Sirniö	/wiki/Sami_Yli-Sirni%C3%B6
+13683	Frédéric Leclercq	/wiki/Fr%C3%A9d%C3%A9ric_Leclercq
+13684	Christian Giesler	/wiki/Christian_Giesler
+13685	A Perfect Murder (band)	/wiki/A_Perfect_Murder_(band)
+13686	Cellador	/wiki/Cellador
+13687	Swallow the Sun	/wiki/Swallow_the_Sun
+13688	Decapitated (band)	/wiki/Decapitated_(band)
+13689	Dagoba (band)	/wiki/Dagoba_(band)
+13690	Michael Wulf	/wiki/Michael_Wulf
+13695	Aurthohin	/wiki/Aurthohin
+13697	Black (Bangladeshi band)	/wiki/Black_(Bangladeshi_band)
+13699	Cryptic Fate	/wiki/Cryptic_Fate
+13700	De-illumination	/wiki/De-illumination
+13705	Stentorian (band)	/wiki/Stentorian_(band)
+13706	Love Runs Blind	/wiki/Love_Runs_Blind_(LRB)
+13712	Chronic Xorn	/wiki/Chronic_Xorn
+13735	Dan Beehler	/wiki/Dan_Beehler
+13787	Faith No More	/wiki/Jon_Hudson
+13788	Chuck Mosley	/wiki/Chuck_Mosley
+13789	Trey Spruance	/wiki/Trey_Spruance
+13790	Drew Fortier	/wiki/Drew_Fortier
+13791	Chino Moreno	/wiki/Chino_Moreno
+13792	Atreyu	/wiki/Atreyu
+13793	Revocation (band)	/wiki/Revocation_(band)
+13794	Sentenced	/wiki/Sentenced
+13795	Slaves on Dope	/wiki/Slaves_on_Dope
+13796	Trail of Tears (band)	/wiki/Trail_of_Tears_(band)
+13798	Primitive Race	/wiki/Primitive_Race
+13802	Lock Up (American band)	/wiki/Lock_Up_(U.S._band)
+13806	Fightstar	/wiki/Fightstar
+13807	Žanil Tataj - Žak	/wiki/%C5%BDanil_Tataj_-_%C5%BDak
+13808	Sead Lipovača	/wiki/Zele_Lipova%C4%8Da
+13810	Zlatan Stipišić Gibonni	/wiki/Gibonni
+13811	Divlje jagode	/wiki/Nasko_Budimli%C4%87
+13812	Dejan Orešković	/wiki/Dejan_Ore%C5%A1kovi%C4%87
+13813	Mladen Vojičić Tifa	/wiki/Tifa_(musician)
+13826	Galactic Cowboys	/wiki/Galactic_Cowboys
+13828	Lillian Axe	/wiki/Lillian_Axe
+13848	Blood Ceremony	/wiki/Blood_Ceremony
+13850	Alabama Thunderpussy	/wiki/Alabama_Thunderpussy
+13858	AM Radio (band)	/wiki/AM_Radio_(band)
+13866	Akira Takasaki	/wiki/Akira_Takasaki
+13867	Masayoshi Yamashita	/wiki/Masayoshi_Yamashita
+13868	Masaki Yamada (musician)	/wiki/Masaki_Yamada_(musician)
+13869	Munetaka Higuchi	/wiki/Munetaka_Higuchi
+13871	Obsession (band)	/wiki/Obsession_(band)
+13872	Michael Vescera	/wiki/Mike_Vescera
+13873	Outrage (band)	/wiki/Outrage_(band)
+13874	Lost Society	/wiki/Lost_Society
+13876	Loudness (band)	/wiki/Rise_to_Glory
+13883	Nasty Suicide	/wiki/Nasty_Suicide
+13885	Conny Bloom	/wiki/Conny_Bloom
+13888	Electric Boys	/wiki/Electric_Boys
+13891	Glenn Tipton	/wiki/Glen_Tipton
+13892	K. K. Downing	/wiki/K.K._Downing
+13915	The Nymphs	/wiki/The_Nymphs
+13930	D'Molls	/wiki/D%27Molls
+13931	Spiders & Snakes (band)	/wiki/Spiders_%26_Snakes_(band)
+13936	Wild Horses (US rock band)	/wiki/Wild_Horses_(American_rock_band)
+13941	Blake Judd	/wiki/Blake_Judd
+13942	UFO (band)	/wiki/Mick_Bolton_(guitarist)
+13943	Gary Barden	/wiki/Gary_Barden
+13944	Robbin Crosby	/wiki/Robbin_Crosby
+13945	Death Angel	/wiki/Rob_Cavestany
+13946	Michael Schenker	/wiki/Thank_You_2
+13947	Leif Sundin	/wiki/Leif_Sundin
+13949	Ted McKenna	/wiki/Ted_McKenna
+13950	Shane Gaalaas	/wiki/Shane_Gaalaas
+13951	Stephen Pearcy	/wiki/Stephen_Pearcy
+13952	Marq Torien	/wiki/Marq_Torien
+13953	Scott Griffin (musician)	/wiki/Scott_Griffin_(musician)
+13954	Joshua Alan	/wiki/Joshua_Alan
+13955	Arcade (band)	/wiki/Arcade_(band)
+13956	Saints of the Underground	/wiki/Saints_of_the_Underground
+13957	Exumer	/wiki/Exumer
+13958	Raubtier	/wiki/Raubtier
+13959	Joe Matera	/wiki/Joe_Matera
+13960	Gama Bomb	/wiki/Gama_Bomb
+13966	Zach Myers	/wiki/Zach_Myers
+13971	Sixx:A.M.	/wiki/Sixx_AM
+13973	E. F. Band	/wiki/E._F._Band
+13974	Tora Tora	/wiki/Tora_Tora
+13984	Tom Five	/wiki/Tom_Guay
+13985	Jay Yuenger	/wiki/Jay_Noel_Yuenger
+13994	Wrathchild	/wiki/Wrathchild_UK
+13998	Iron Maiden	/wiki/Ed_Force_One
+14000	Tribuzy	/wiki/Tribuzy
+14001	Tribuzy	/wiki/Execution_%E2%80%93_Live_Reunion
+14002	As Lions	/wiki/As_Lions_(band)
+14003	SHVPES	/wiki/SHVPES
+14015	Doug Ardito	/wiki/Doug_Ardito
+14016	Puddle of Mudd	/wiki/Jimmy_Allen_(musician)
+14018	Paul Phillips (guitarist)	/wiki/Paul_Phillips_(guitarist)
+14019	Damien Starkey	/wiki/Damien_Starkey
+14020	Burn Season	/wiki/Burn_Season
+14037	Skyclad (band)	/wiki/Skyclad_(band)
+14038	Steve Ramsey	/wiki/Steve_Ramsey
+14039	Martin Walkyier	/wiki/Martin_Walkyier
+14040	Michael Jackson (English singer)	/wiki/Michael_Jackson_(English_singer)
+14072	Candy Harlots	/wiki/Candy_Harlots
+14073	Candy Harlots	/wiki/Aiz_Lynch
+14106	Bullets and Octane	/wiki/Bullets_and_Octane
+14113	Korn	/wiki/Elementree_Records
+14114	Deadsy	/wiki/Deadsy
+14115	Jay Gordon	/wiki/Jay_Gordon
+14117	Carlton Bost	/wiki/Carlton_Bost
+14118	Ryan Shuck	/wiki/Ryan_Shuck
+14119	Paige Haley	/wiki/Paige_Haley
+14120	Deadsy	/wiki/Ashburn_Miller
+14121	Vampires Everywhere!	/wiki/Vampires_Everywhere!
+14168	Vicious Delite	/wiki/Vicious_Delite
+14170	Black 'n Blue	/wiki/Pete_Holmes_(drummer)

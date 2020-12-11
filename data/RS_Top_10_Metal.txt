@@ -1,0 +1,10 @@
+1	Metallica
+2	Dream Theater
+3	Black Sabbath
+4	Iron Maiden
+5	Slayer
+6	Megadeth
+7	Judas Priest
+8	Led Zeppelin
+9	Pantera
+10	Tool
